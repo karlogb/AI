@@ -1,9 +1,9 @@
-# Reva Voss - NSFW Generacne Prompty (Fanvue Exclusive)
+# Reva Voss - NSFW Generation Prompts (Fanvue Exclusive)
 
-> **POZNAMKA**: Tieto prompty su urcene vyhradne pre Fanvue premium content.
-> Vyzaduju NSFW-capable model (uncensored checkpoint).
+> **NOTE**: These prompts are intended exclusively for Fanvue premium content.
+> They require an NSFW-capable model (uncensored checkpoint).
 
-## Zakladny Character Prompt (rovnaky zaklad)
+## Base Character Prompt (same foundation)
 
 ```
 A 24-year-old woman, athletic slim hourglass figure, dark brunette wavy hair
@@ -95,7 +95,7 @@ nude photography, cinematic composition, photorealistic
 
 ---
 
-## Negative Prompt (NSFW verzia)
+## Negative Prompt (NSFW version)
 
 ```
 (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy,
@@ -108,18 +108,18 @@ illustration, 3d render, (extra nipples:1.3), (extra breasts:1.3)
 
 ---
 
-## Odporucane Modely & Checkpointy pre NSFW
+## Recommended Models & Checkpoints for NSFW
 
-| Model | Pouzitie | Poznamka |
-|-------|----------|----------|
-| RealVisXL V5 (NSFW variant) | Realisticke NSFW | Najlepsi pre photo-real |
-| CyberRealistic (Pony) | Realisticke boudoir | Vynikajuci pre lingerie |
-| epiCRealism (NSFW) | Realisticke NSFW | Dobra alternativa |
-| Juggernaut XL (NSFW) | Versatilny | SFW aj NSFW |
+| Model | Use Case | Note |
+|-------|----------|------|
+| RealVisXL V5 (NSFW variant) | Realistic NSFW | Best for photo-realism |
+| CyberRealistic (Pony) | Realistic boudoir | Excellent for lingerie |
+| epiCRealism (NSFW) | Realistic NSFW | Good alternative |
+| Juggernaut XL (NSFW) | Versatile | Works for both SFW and NSFW |
 
 ---
 
-## Content Funnel Strategia
+## Content Funnel Strategy
 
 ```
 TikTok/IG (SFW) → Linktree → Fanvue Free tier → Fanvue Paid tier
@@ -129,18 +129,18 @@ TikTok/IG (SFW) → Linktree → Fanvue Free tier → Fanvue Paid tier
   GRWM                      Behind scenes          Custom requests
 ```
 
-### Pricing navrh (Fanvue):
+### Pricing Proposal (Fanvue):
 - **Free tier**: SFW tease, casual behind the scenes
 - **Paid tier ($9.99/mo)**: Lingerie, boudoir, implied
 - **Premium PPV ($15-25)**: Explicit sets, themed shoots
-- **Custom ($50+)**: Na poziadanie
+- **Custom ($50+)**: On request
 
 ---
 
-## Poznamky
+## Notes
 
-1. **Vzdy pouzit rovnake prostredie** - izba, kupelna, garaz ako v SFW
-2. **Rovnake fyzicke atributy** - NIKDY nemenit telo, vlasy, oci
-3. **Progresivny content** - zacinat soft, stupnovat
-4. **Watermark**: Pridat "@revarides" watermark na vsetky Fanvue fotky
-5. **Konzistencia je klucova** - ludia si vsimnu zmeny
+1. **Always use the same environments** - bedroom, bathroom, garage as in SFW
+2. **Same physical attributes** - NEVER change body, hair, eyes
+3. **Progressive content** - start soft, escalate gradually
+4. **Watermark**: Add "@revarides" watermark to all Fanvue photos
+5. **Consistency is key** - people will notice changes

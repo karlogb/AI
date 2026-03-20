@@ -1,6 +1,6 @@
-# Reva Voss - SFW Generacne Prompty
+# Reva Voss - SFW Generation Prompts
 
-## Zakladny Character Prompt (pouzit vzdy ako zaklad)
+## Base Character Prompt (always use as foundation)
 
 ```
 A 24-year-old woman, athletic slim hourglass figure, dark brunette wavy hair
@@ -11,9 +11,9 @@ crescent moon tattoo behind left ear, small silver nose stud on left nostril.
 
 ---
 
-## Kategoria 1: Motorkarske fotky
+## Category 1: Motorcycle Photos
 
-### S motorkou - staticke
+### With motorcycle - static
 ```
 [CHARACTER PROMPT], wearing black leather motorcycle jacket, black leather pants,
 standing next to a Kawasaki Ninja H2 supercharged sport motorcycle in mirror black
@@ -23,7 +23,7 @@ confident pose, looking at camera, photorealistic, shot on Canon R5, 85mm f/1.4,
 shallow depth of field
 ```
 
-### S helmou v ruke
+### Holding helmet
 ```
 [CHARACTER PROMPT], holding an AGV Pista GP RR helmet matte black with red accents
 under her arm, wearing black leather motorcycle jacket unzipped slightly, black
@@ -32,7 +32,7 @@ H2 parked behind her, wind in hair, natural lighting, photorealistic, editorial
 photography style
 ```
 
-### Riding POV (z boku)
+### Riding POV (side angle)
 ```
 [CHARACTER PROMPT], riding a Kawasaki Ninja H2 sport motorcycle on a winding
 mountain road, wearing full black motorcycle gear, AGV Pista GP RR matte black
@@ -40,7 +40,7 @@ helmet with red accents, aggressive sport riding position, motion blur backgroun
 golden hour sunlight, dynamic action shot, photorealistic
 ```
 
-### Sedenie na motorke (casual)
+### Sitting on motorcycle (casual)
 ```
 [CHARACTER PROMPT], sitting sideways on a Kawasaki Ninja H2 motorcycle, wearing
 black crop top, high-waist jeans, white Nike Air Force 1 sneakers, holding AGV
@@ -50,9 +50,9 @@ lifestyle photography
 
 ---
 
-## Kategoria 2: Mirror Selfie (Izba)
+## Category 2: Mirror Selfie (Bedroom)
 
-### Klasicke mirror selfie
+### Classic mirror selfie
 ```
 [CHARACTER PROMPT], taking a mirror selfie in a modern minimalist bedroom,
 holding iPhone 15 Pro Max in Natural Titanium color with clear case, wearing
@@ -72,9 +72,9 @@ motorcycle keys visible, cozy authentic vibe, candid shot, photorealistic
 
 ---
 
-## Kategoria 3: Kupelna Selfie
+## Category 3: Bathroom Selfie
 
-### Po sprche casual
+### Post-shower casual
 ```
 [CHARACTER PROMPT], mirror selfie in modern bathroom with white tiles and wooden
 accents, wet wavy hair, wearing white towel wrapped, warm lighting, steamy
@@ -91,9 +91,9 @@ candid authentic moment, photorealistic, lifestyle photography
 
 ---
 
-## Kategoria 4: Outdoor / Cestovanie
+## Category 4: Outdoor / Travel
 
-### Horska cesta
+### Mountain road
 ```
 [CHARACTER PROMPT], standing on a scenic mountain road overlook, wearing black
 leather motorcycle jacket open, white crop top, black jeans, Kawasaki Ninja H2
@@ -111,9 +111,9 @@ photorealistic
 
 ---
 
-## Kategoria 5: Kaviaren / Lifestyle
+## Category 5: Cafe / Lifestyle
 
-### V kaviarni
+### At a cafe
 ```
 [CHARACTER PROMPT], sitting in a modern industrial-style cafe, drinking coffee,
 wearing black crop top, high-waist jeans, black baseball cap, relaxed pose,
@@ -130,7 +130,7 @@ pose, natural lighting, fitness photography, photorealistic
 
 ---
 
-## Negative Prompt (pouzit vzdy)
+## Negative Prompt (always use)
 
 ```
 (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy,
@@ -143,12 +143,12 @@ illustration, 3d render
 
 ---
 
-## Poznamky ku generovaniu
+## Generation Notes
 
-1. **Vzdy zacat s character promptom** - zabezpeci konzistenciu
-2. **Vzdy pouzit negative prompt** - zabrani deformaciam
-3. **CFG Scale**: 7-8 pre realisticke vysledky
-4. **Steps**: 30-40 pre kvalitu
-5. **Sampler**: DPM++ 2M Karras alebo Euler a
-6. **Resolution**: 768x1024 (portrait) alebo 1024x768 (landscape)
-7. **Po vygenerovani LoRA**: pridat `<lora:reva_voss:0.7-0.85>` do promptu
+1. **Always start with character prompt** - ensures consistency
+2. **Always use negative prompt** - prevents deformations
+3. **CFG Scale**: 7-8 for realistic results
+4. **Steps**: 30-40 for quality
+5. **Sampler**: DPM++ 2M Karras or Euler a
+6. **Resolution**: 768x1024 (portrait) or 1024x768 (landscape)
+7. **After training LoRA**: add `<lora:reva_voss:0.7-0.85>` to prompt
