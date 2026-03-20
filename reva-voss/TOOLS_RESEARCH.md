@@ -213,7 +213,60 @@ Alternativne s vlastnym GPU: iba ElevenLabs + Kling = ~$13/mesiac + elektrinu.
 
 ---
 
-## 8. Odporucany Stack pre Reva Voss
+## 8. DOLEZITE ZISTENIA Z RESEARCHU
+
+### VAROVANIE: Linktree & Adult Content
+**NEPOUZIVAT Linktree pre adult/NSFW funnel!** Mainstream link-in-bio sluzby maju content
+policies a mozu ta bez varovania odstranit. Instagram aktivne blokuje adult domeny.
+
+**Alternativa**: [Zori.bio](https://zori.bio) - dizajnovane pre adult creators, s traffic
+source trackingom (vidis ktore platformy prinasaju platiacich subscriberkov).
+
+### Instagram & TikTok de-rankuju AI content
+Od 2025-2026 obe platformy aktivne znizuju dosah AI-generovaneho obsahu.
+Instagram algoritmus flaguje AI obrazky. Treba byt opatrny s prilis "perfektnymi" fotkami.
+
+**Riesenie**: Pridat "neskonalosti" - grain, mierne rozmazanie, prirodzene osvetlenie.
+Pouzivat fotorealisticke checkpointy (RealVisXL, Juggernaut XL). Nikdy nepouzivat
+"ultra HD, 8K, perfect" v promptoch - to je AI red flag.
+
+### Reddit = Najlepsi traffic pre NSFW
+Reddit niche subreddity konzistentne prekonali Instagram v priamych Fanvue signup-och.
+**Pridaj Reddit do traffic strategie!** Relevantne subreddity: r/bikerchicks, r/motorcycles,
+a NSFW moto subreddity.
+
+### Fanvue - nativny AI chatbot
+Fanvue ma **built-in AI messaging** - chatuje s fanusikmi 24/7 v tvojom tone.
+AI automaticky naviguje fanusikov k platenym obsahom.
+
+**Substy** - Third-party CRM + AI chatbot pre Fanvue agencie.
+Autonomny chat AI co si pamatuje kazdeho fanusika. Az **40% vyssia PPV konverzia**.
+
+### "Triple Stack" pre 95%+ konzistenciu
+Najlepsi production workflow pre konzistentnu postavu:
+1. **LoRA** (weight 0.6) - telo, vlasy, vibe
+2. **PuLID/IP-Adapter** (weight 0.8) - uzamkne presne facial features
+3. **ControlNet OpenPose** - vynuti specificku pozu
+
+Toto zvysi konzistenciu z ~85% (len LoRA) na **95%+**.
+
+### FLUX Kontext - Game Changer
+FLUX Kontext podporuje **az 10 referencnych obrazkov** naraz.
+Udrzuje identitu cez zmeny poz bez potreby LoRA trenovania.
+Moze byt rychla alternativa k LoRA pre zaciatky.
+
+### Fanvue vyzaduje AI disclosure
+Fanvue **VYZADUJE** aby bol AI content jasne oznaceny ako AI-generovany.
+Toto je povinne - treba to mat v bio/profile.
+
+### Hedra Character-3 - lider v lip sync
+3M+ pouzivatelov, lip-sync hodnoteny 9/10, lepsi ako Runway a Kling.
+Animuje naklony hlavy, pohyby oci, mimiku (nie len usta).
+Podporuje az 5-minutove neprerrusene videa. Real-time avatar za $0.05/min.
+
+---
+
+## 9. Odporucany Stack pre Reva Voss
 
 ### Tier 1 (Budget - ~$15/mesiac):
 - **Obrazky**: ComfyUI lokalne (FLUX.2 + PuLID) alebo Fooocus
@@ -231,5 +284,26 @@ Alternativne s vlastnym GPU: iba ElevenLabs + Kling = ~$13/mesiac + elektrinu.
 - **Obrazky**: ComfyUI produkcia + RunPod cloud + Midjourney
 - **Video**: Runway Pro + Kling Pro + HeyGen
 - **Hlas**: ElevenLabs Pro
-- **Chatbot**: Custom chatbot s GPT-4o
+- **Chatbot**: Custom chatbot s GPT-4o + Substy CRM
 - **Planovanie**: Buffer + Notion
+
+---
+
+## 10. Zdroje & Linky
+
+- [Best Open-Source Image Generation Models 2026 (BentoML)](https://www.bentoml.com/blog/a-guide-to-open-source-image-generation-models)
+- [Flux 2 Pro: Next Evolution in AI Image Generation](https://blog.republiclabs.ai/2026/01/flux-2-pro-next-evolution-in-ai-image.html)
+- [15 Best Stable Diffusion Models 2026](https://www.aiphotogenerator.net/blog/2026/02/best-stable-diffusion-models-2026)
+- [Best Local SD Setup 2026 (Forge vs ComfyUI vs A1111)](https://offlinecreator.com/blog/best-local-stable-diffusion-setup-2026)
+- [LoRA Training Guide: 98% Consistent AI Influencer Faces](https://iimagined.ai/blog/lora-training-guide-consistent-ai-influencer-faces)
+- [FLUX 2 Pro LoRA Training Guide 2026](https://apatero.com/blog/flux-2-pro-lora-training-character-consistency-2026)
+- [PuLID vs InstantID vs FaceID Showdown](https://myaiforce.com/pulid-vs-instantid-vs-faceid/)
+- [PuLID Flux II ComfyUI (GitHub)](https://github.com/iFayens/ComfyUI-PuLID-Flux2)
+- [AI Video Generators 2026 Comparison](https://wavespeed.ai/blog/posts/best-ai-video-generators-2026/)
+- [Hedra AI Review 2026](https://max-productive.ai/ai-tools/hedra/)
+- [Fanvue Chatbot Automation Guide 2026 (Substy)](https://substy.ai/blog/how-to-manage-and-automate-your-chatting-on-fanvue-in-2026-the-complete-chatbot-guide)
+- [Fanvue Complete Guide for AI Creators 2026](https://www.apatero.com/blog/fanvue-complete-guide-ai-creators-monetization-2026)
+- [ElevenLabs Review 2026](https://hackceleration.com/elevenlabs-review/)
+- [FLUX Kontext Character Consistency (Together AI)](https://www.together.ai/blog/flux-1-kontext)
+- [How to Create Consistent AI Influencers in SD](https://www.nextdiffusion.ai/tutorials/how-to-create-hyper-realistic-ai-influencers-stable-diffusion)
+- [Ultimate Guide to AI Influencers 2026 (Cybeauty)](https://cybeauty.ai/the-ultimate-guide-to-ai-influencers-2026-how-theyre-made-monetized-protected/)

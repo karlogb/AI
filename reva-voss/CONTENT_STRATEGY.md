@@ -107,6 +107,11 @@ Moto content & more
 
 ### Linktree (@revarides)
 
+> **VAROVANIE**: Linktree moze odstranit profily s adult contentom bez varovania!
+> Ak bude funnel zahrnovat NSFW, zvaz pouzitie **Zori.bio** (dizajnovane pre adult
+> creators, s traffic tracking). Linktree je ok pokial vsetok verejny content je SFW
+> a Fanvue link je "exclusive content" bez explicit popisu.
+
 **Setup**:
 ```
 🏍️ Follow me on TikTok → tiktok.com/@revarides
@@ -118,6 +123,27 @@ Moto content & more
 - Dark theme (matches brand)
 - Profile photo = rovnaka ako IG
 - Analytics tracking enabled
+- **Backup**: Pripravit Zori.bio profil pre pripad banu
+
+---
+
+### Reddit (NEW - doplnene z researchu)
+
+**Ciel**: Najvyssia konverzia na Fanvue zo vsetkych platforiem
+**Typ obsahu**: SFW moto fotky + tease fotky v NSFW subredditoch
+
+#### Relevantne subreddity:
+- r/MotorcyclePorn (SFW moto fotky)
+- r/bikerchicks
+- r/TwoXriders
+- NSFW moto/biker subreddity (pre Fanvue konverziu)
+
+#### Reddit pravidla:
+- Kazdy subreddit ma vlastne rules - CITAT pred postovanim
+- Nepouzivat link v kazdom poste (spam = ban)
+- Budovat karmu organic engagementom
+- Watermark "@revarides" na vsetkych fotkach
+- Link na Fanvue/Linktree v Reddit profile bio
 
 ---
 
