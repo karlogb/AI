@@ -1,26 +1,26 @@
-# Reva Voss - Content Strategia & Posting Plan
+# Reva Voss - Content Strategy & Posting Plan
 
-## Platforma Strategia
+## Platform Strategy
 
 ---
 
 ### TikTok (@revarides)
 
-**Ciel**: Brand awareness, traffic na IG a Linktree
-**Typ obsahu**: Kratke moto videa, POV jazdy, transitions
+**Goal**: Brand awareness, drive traffic to IG and Linktree
+**Content Type**: Short moto videos, POV rides, transitions
 
-#### Typy videí:
-1. **POV Ride** - Kamera na hlave/helme, jazda mestom/horami
-2. **Bike Reveal** - Slow-mo odhalenie H2
-3. **GRWM Moto** - "Get ready with me" pred jazdou (obliekanie gear)
+#### Video Types:
+1. **POV Ride** - Helmet/head-mounted camera, city/mountain rides
+2. **Bike Reveal** - Slow-mo H2 reveal
+3. **GRWM Moto** - "Get ready with me" before a ride (putting on gear)
 4. **Sound Transitions** - Trending audio + moto edit
 5. **Before/After** - Casual -> full moto gear transformation
-6. **Tips & Tricks** - Moto tipy pre zaciatocnikov
-7. **Night Rides** - Aesthetic nocne jazdy s hudbou
+6. **Tips & Tricks** - Motorcycle tips for beginners
+7. **Night Rides** - Aesthetic night rides with music
 
-#### Posting frekvencia:
-- **1-2x denne** (minimum 1x)
-- Najlepsie casy: 7:00, 12:00, 18:00, 21:00
+#### Posting Frequency:
+- **1-2x daily** (minimum 1x)
+- Best times: 7:00, 12:00, 18:00, 21:00
 
 #### Hashtags:
 ```
@@ -33,35 +33,35 @@
 
 ### Instagram (@revarides)
 
-**Ciel**: Hlavna platforma pre budovanie identity, link na Fanvue
-**Typ obsahu**: Kvalitne fotky, Reels, Stories
+**Goal**: Main platform for building identity, link to Fanvue
+**Content Type**: High-quality photos, Reels, Stories
 
-#### Feed Posts (3-4x tyzdenne):
-1. **Solo portrait s motorkou** - High quality, editorial style
+#### Feed Posts (3-4x per week):
+1. **Solo portrait with motorcycle** - High quality, editorial style
 2. **Mirror selfie** - Casual, relatable
-3. **Riding shot** - Action fotky
-4. **Lifestyle** - Kaviaren, fitness, casual
-5. **Carousel** - Mix fotiek z jedneho "shootu"
+3. **Riding shot** - Action photos
+4. **Lifestyle** - Cafe, fitness, casual
+5. **Carousel** - Mix of photos from one "shoot"
 
-#### Reels (4-5x tyzdenne):
-- Rovnake typy ako TikTok
-- Cross-post z TikTok (ale nativne, bez TT watermarku)
+#### Reels (4-5x per week):
+- Same types as TikTok
+- Cross-post from TikTok (but native, without TT watermark)
 
-#### Stories (denne):
-- Ranné "good morning" selfie
+#### Stories (daily):
+- Morning "good morning" selfie
 - Behind the scenes
-- Polls ("kam idem dnes?")
+- Polls ("where am I riding today?")
 - Q&A
-- Promo Fanvue (story s "link in bio")
+- Fanvue promo (story with "link in bio")
 
-#### Hashtags IG:
+#### IG Hashtags:
 ```
 #motorcycle #bikerlife #kawasakih2 #h2rider #motorgirl
 #bikerchick #sportbike #ridingseason #bikelife #motolife
 #girlsonbikes #kawasakininja #superbike #bikeporn #instamoto
 ```
 
-#### Bio navrh:
+#### Bio Suggestion:
 ```
 Reva Voss 🏍️
 24 | SK/DE | H2 is my soulmate
@@ -75,42 +75,45 @@ Moto content & more
 
 ### Fanvue (@revarides)
 
-**Ciel**: Monetizacia, exclusive content
-**Typ obsahu**: Tiered - SFW tease az po NSFW exclusive
+**Goal**: Monetization, exclusive content
+**Content Type**: Tiered - SFW tease up to NSFW exclusive
 
 #### Content Tiers:
 
 **Free Profile (tease)**:
-- SFW fotky ktore neisu na IG
-- Behind the scenes z moto shootov
-- Casual selfie
-- Ciel: Konvertovat na paid subscribers
+- SFW photos not posted on IG
+- Behind the scenes from moto shoots
+- Casual selfies
+- Goal: Convert to paid subscribers
 
-**Paid Subscription ($9.99/mesiac)**:
-- Lingerie / boudoir fotky (2-3x tyzdenne)
+**Paid Subscription ($9.99/month)**:
+- Lingerie / boudoir photos (2-3x weekly)
 - Exclusive behind the scenes
-- "Closer" selfie
-- Cierne pradlo + moto tematika
+- "Closer" selfies
+- Black lingerie + moto theme
 - Voice messages (AI generated)
 
 **PPV (Pay Per View) Messages ($15-50)**:
-- Explicit photo sets (5-10 fotiek)
+- Explicit photo sets (5-10 photos)
 - Themed shoots (shower, bedroom, garage)
 - "Custom" style content
 
-#### Posting plan Fanvue:
-- **Denne**: 1 post (rotacia SFW tease a lingerie)
-- **2x tyzdenne**: PPV mass message
-- **Tyzdenne**: New photo set (5-10 ks)
+#### Fanvue Posting Plan:
+- **Daily**: 1 post (rotation of SFW tease and lingerie)
+- **2x weekly**: PPV mass message
+- **Weekly**: New photo set (5-10 images)
+
+**IMPORTANT**: Fanvue **requires** AI-generated content to be clearly disclosed as AI-generated. This must be in the bio/profile.
 
 ---
 
 ### Linktree (@revarides)
 
-> **VAROVANIE**: Linktree moze odstranit profily s adult contentom bez varovania!
-> Ak bude funnel zahrnovat NSFW, zvaz pouzitie **Zori.bio** (dizajnovane pre adult
-> creators, s traffic tracking). Linktree je ok pokial vsetok verejny content je SFW
-> a Fanvue link je "exclusive content" bez explicit popisu.
+> **WARNING**: Linktree may remove profiles with adult content without warning!
+> If the funnel includes NSFW, consider using **Zori.bio** (designed for adult
+> creators, with traffic source tracking). Linktree is fine as long as all
+> public content is SFW and the Fanvue link says "exclusive content" without
+> explicit descriptions.
 
 **Setup**:
 ```
@@ -121,72 +124,72 @@ Moto content & more
 ```
 
 - Dark theme (matches brand)
-- Profile photo = rovnaka ako IG
+- Profile photo = same as IG
 - Analytics tracking enabled
-- **Backup**: Pripravit Zori.bio profil pre pripad banu
+- **Backup**: Prepare Zori.bio profile as fallback
 
 ---
 
-### Reddit (NEW - doplnene z researchu)
+### Reddit (High-Converting Traffic Source)
 
-**Ciel**: Najvyssia konverzia na Fanvue zo vsetkych platforiem
-**Typ obsahu**: SFW moto fotky + tease fotky v NSFW subredditoch
+**Goal**: Highest conversion to Fanvue of all platforms
+**Content Type**: SFW moto photos + tease photos in NSFW subreddits
 
-#### Relevantne subreddity:
-- r/MotorcyclePorn (SFW moto fotky)
+#### Relevant Subreddits:
+- r/MotorcyclePorn (SFW moto photos)
 - r/bikerchicks
 - r/TwoXriders
-- NSFW moto/biker subreddity (pre Fanvue konverziu)
+- NSFW moto/biker subreddits (for Fanvue conversion)
 
-#### Reddit pravidla:
-- Kazdy subreddit ma vlastne rules - CITAT pred postovanim
-- Nepouzivat link v kazdom poste (spam = ban)
-- Budovat karmu organic engagementom
-- Watermark "@revarides" na vsetkych fotkach
-- Link na Fanvue/Linktree v Reddit profile bio
+#### Reddit Rules:
+- Every subreddit has its own rules - READ before posting
+- Don't use a link in every post (spam = ban)
+- Build karma through organic engagement
+- Watermark "@revarides" on all photos
+- Link to Fanvue/Linktree in Reddit profile bio
 
 ---
 
-## Tyzdenny Content Kalendar
+## Weekly Content Calendar
 
-| Den | TikTok | IG Post | IG Reel | IG Story | Fanvue |
+| Day | TikTok | IG Post | IG Reel | IG Story | Fanvue |
 |-----|--------|---------|---------|----------|--------|
-| PO | POV ride | Mirror selfie | Cross-post | Morning + BTS | Tease photo |
-| UT | Transition | - | Bike reveal | Q&A | Lingerie set |
-| ST | GRWM | Moto portrait | Cross-post | Poll | PPV message |
-| ST | Night ride | Lifestyle | Cross-post | Promo Fanvue | Tease photo |
-| PI | Tips video | Carousel (5 ks) | Cross-post | BTS | Explicit set |
-| SO | Trending audio | Action riding | Cross-post | Ride story | PPV message |
-| NE | Recap/vlog | - | Sunset ride | Chill story | Behind scenes |
+| MON | POV ride | Mirror selfie | Cross-post | Morning + BTS | Tease photo |
+| TUE | Transition | - | Bike reveal | Q&A | Lingerie set |
+| WED | GRWM | Moto portrait | Cross-post | Poll | PPV message |
+| THU | Night ride | Lifestyle | Cross-post | Promo Fanvue | Tease photo |
+| FRI | Tips video | Carousel (5 pcs) | Cross-post | BTS | Explicit set |
+| SAT | Trending audio | Action riding | Cross-post | Ride story | PPV message |
+| SUN | Recap/vlog | - | Sunset ride | Chill story | Behind scenes |
 
 ---
 
-## Growth Strategia
+## Growth Strategy
 
-### Faza 1: Launch (Mesiac 1-2)
-- Vybudovat 30+ postov na IG pred aktivnym promom
-- TikTok posting 1-2x denne od dna 1
-- Fanvue: pripravit 50+ fotiek pred launchom
-- Engagement v moto communities
+### Phase 1: Launch (Month 1-2)
+- Build 30+ posts on IG before active promotion
+- TikTok posting 1-2x daily from day 1
+- Fanvue: prepare 50+ photos before launch
+- Engagement in moto communities
 
-### Faza 2: Rast (Mesiac 3-6)
-- Collab s inymi moto accountami
-- TikTok growth hacking (trending sounds, duety)
+### Phase 2: Growth (Month 3-6)
+- Collab with other moto accounts
+- TikTok growth hacking (trending sounds, duets)
 - IG Reels push
-- Fanvue: pravidelny PPV, budovanie subscriber base
+- Fanvue: regular PPV, build subscriber base
 
-### Faza 3: Monetizacia (Mesiac 6+)
-- Sponzorovane posty (moto gear, lifestyle brandy)
-- Fanvue revenue stabilizacia
-- Merch moznost (ak sa komunita rozrastie)
-- Premium tiers na Fanvue
+### Phase 3: Monetization (Month 6+)
+- Sponsored posts (moto gear, lifestyle brands)
+- Fanvue revenue stabilization
+- Merch possibility (if community grows)
+- Premium tiers on Fanvue
 
 ---
 
 ## Engagement Rules
 
-1. **Odpovedaj na komentare** - prvych 30 min po poste je kriticka
-2. **DM strategia** - welcome message novym followerom (automated)
-3. **Nikdy nepriznat ze je AI** - vzdy v 1. osobe, autenticke
-4. **Konzistentny tone** - vid CHARACTER_BIBLE.md
-5. **Cross-promo** - kazdy TikTok odkazuje na IG, kazdy IG na Linktree
+1. **Reply to comments** - first 30 min after posting is critical
+2. **DM strategy** - welcome message to new followers (automated)
+3. **Never admit it's AI** - always first person, authentic
+4. **Consistent tone** - see CHARACTER_BIBLE.md
+5. **Cross-promo** - every TikTok links to IG, every IG links to Linktree

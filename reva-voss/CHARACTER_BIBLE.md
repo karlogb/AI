@@ -1,80 +1,80 @@
 # Reva Voss - Character Bible
 
-## Zakladne informacie
+## Basic Information
 
-| Parameter | Hodnota |
-|-----------|---------|
-| **Meno** | Reva Voss |
-| **Vek** | 24 rokov |
-| **Narodnost** | Polovicne slovenska, polovicne nemecka |
-| **Bydlisko** | Bratislava / Wien (pendlerka) |
-| **Povolanie** | Freelance fotografka & motorkarka / content creatorka |
-| **Osobnost** | Odvazna, spontanna, trochu tajomna, flirty ale s triedou |
-
----
-
-## Fyzicky popis (KLUCOVE PRE KONZISTENTNOST)
-
-### Tvar & postava
-- **Vyska**: 172 cm
-- **Postava**: Atleticka, stihla ale s krivkami (fit motorkarka)
-- **Typ tela**: Hourglass, toned arms & legs
-
-### Tvar
-- **Vlasy**: Tmavohnede (dark brunette), dlhe po lopakty, mierne vlnite
-- **Oci**: Zeleno-sede (hazel-green), vyrazne
-- **Plet**: Svetla, mierne opalna (light olive skin)
-- **Pery**: Plne, prirodzene ruzove
-- **Obocei**: Vyrazne, natural thick brows
-- **Nos**: Rovny, jemny
-
-### Typicke znaky
-- Jemne pihy cez nos (v lete vyraznejsie)
-- Maly tetovanie za uchom (minimalisticky mesiac)
-- Piercing - jemny nosovy stud (lava strana)
+| Parameter | Value |
+|-----------|-------|
+| **Name** | Reva Voss |
+| **Age** | 24 years old |
+| **Nationality** | Half Slovak, half German |
+| **Location** | Bratislava / Vienna (commuter) |
+| **Occupation** | Freelance photographer & motorcycle rider / content creator |
+| **Personality** | Bold, spontaneous, slightly mysterious, flirty but classy |
 
 ---
 
-## Garderoba & Styl
+## Physical Description (KEY FOR CONSISTENCY)
 
-### Motorkarske outfity
-- **Bunda**: Cierna kozena motorkarska bunda (Alpinestars/Dainese style)
-- **Helma**: AGV Pista GP RR - cierna matna s cervenymi akcentmi
-- **Rukavice**: Cierne kozene s cervenymi detail
-- **Topanky**: Cierne motorkarske cizmy
-- **Nohavice**: Cierne kozene moto nohavice alebo cierne jeansy
+### Build & Figure
+- **Height**: 172 cm (5'8")
+- **Build**: Athletic, slim but curvy (fit biker girl)
+- **Body type**: Hourglass, toned arms & legs
 
-### Casualne outfity (SFW)
-- Crop topy (cierne, biele, army green)
-- High-waist jeansy
+### Facial Features
+- **Hair**: Dark brunette, shoulder-length, slightly wavy
+- **Eyes**: Hazel-green, striking
+- **Skin**: Light olive skin, slightly tanned
+- **Lips**: Full, naturally pink
+- **Eyebrows**: Prominent, natural thick brows
+- **Nose**: Straight, delicate
+
+### Distinctive Features
+- Light freckles across nose (more prominent in summer)
+- Small tattoo behind ear (minimalist crescent moon)
+- Piercing - delicate nose stud (left side)
+
+---
+
+## Wardrobe & Style
+
+### Motorcycle Outfits
+- **Jacket**: Black leather motorcycle jacket (Alpinestars/Dainese style)
+- **Helmet**: AGV Pista GP RR - matte black with red accents
+- **Gloves**: Black leather with red details
+- **Boots**: Black motorcycle boots
+- **Pants**: Black leather moto pants or black jeans
+
+### Casual Outfits (SFW)
+- Crop tops (black, white, army green)
+- High-waist jeans
 - Oversized hoodies
-- Tenisky (Nike AF1 biele alebo cierne Vans)
-- Baseball cap (cierna)
+- Sneakers (white Nike AF1 or black Vans)
+- Baseball cap (black)
 
-### Domace / Selfie outfity
+### Home / Selfie Outfits
 - Oversized t-shirt (band tees - Metallica, AC/DC)
-- Sportove podprsenky
-- Biele tanktop
-- Sive joggers
+- Sports bras
+- White tank top
+- Grey joggers
 
-### NSFW outfity (Fanvue exclusive)
-- Cierne spodne pradlo (lace)
-- Kozeny harness
+### NSFW Outfits (Fanvue exclusive)
+- Black lace underwear
+- Leather harness
 - Fishnet details
-- Cervene/cierne lingerie sets
+- Red/black lingerie sets
 
 ---
 
-## Motorka
+## Motorcycle
 
 ### Kawasaki Ninja H2
 - **Model**: Kawasaki Ninja H2 (supercharged)
-- **Farba**: Mirror Coated Spark Black / cierna so zelenym tintom
-- **Rok**: 2024
-- **Upravy**: Akrapovic vyfuk, cierne logo
-- **SPZ**: Europska (SK format)
+- **Color**: Mirror Coated Spark Black / black with green tint
+- **Year**: 2024
+- **Modifications**: Akrapovic exhaust, blacked-out logos
+- **License plate**: European (SK format)
 
-### Prompt keywords pre motorku:
+### Prompt keywords for motorcycle:
 ```
 Kawasaki Ninja H2, supercharged sport motorcycle, mirror black paint with green tint,
 aggressive aerodynamic fairing, single-sided swingarm, Akrapovic exhaust,
@@ -83,112 +83,112 @@ LED headlights, 998cc supercharged inline-four engine
 
 ---
 
-## Prostredia / Lokality
+## Environments / Locations
 
-### Primarne lokality pre fotky
+### Primary Photo Locations
 
-#### 1. Garaz / Dielna
-- Tmava industralna garaz
-- Betonova podlaha, tehlove steny
-- Neonove svetla (cervene/modre)
-- Motorka v pozadi alebo vedla nej
-- Naradie na stene
+#### 1. Garage / Workshop
+- Dark industrial garage
+- Concrete floor, brick walls
+- Neon lights (red/blue)
+- Motorcycle in background or beside her
+- Tools on the wall
 
-#### 2. Izba (selfie)
-- Moderna minimalisticka izba
-- Seda/biela stena
-- Velke zrkadlo (mirror selfie)
+#### 2. Bedroom (selfie)
+- Modern minimalist bedroom
+- Grey/white walls
+- Large mirror (mirror selfie)
 - LED strip lights (warm white)
-- Postel s bielou postelnou bieliznou a ciernym prehozom
-- Na nocnom stoliku: helma, kluce od motorky
-- Rastliny (monstera)
+- Bed with white sheets and black throw blanket
+- On nightstand: helmet, motorcycle keys
+- Plants (monstera)
 
-#### 3. Kupelna (selfie)
-- Moderna kupelna, biela s drevenymi akcentmi
-- Velke zrkadlo nad umyvadlom
-- Teplé osvetlenie
-- Biely rucnik, cierne doplnky
+#### 3. Bathroom (selfie)
+- Modern bathroom, white with wooden accents
+- Large mirror above sink
+- Warm lighting
+- White towel, black accessories
 
-#### 4. Cesta / Outdoor
-- Horske cesty (tatry style, alpske priechody)
-- Zapadajuce slnko
-- Prazdne parkoviska
-- Benzinove pumpy (retro style)
+#### 4. Road / Outdoor
+- Mountain roads (Tatras style, Alpine passes)
+- Setting sun
+- Empty parking lots
+- Gas stations (retro style)
 
-#### 5. Kaviaren / Urban
-- Moderna kaviaren
-- Industrialny interier
-- Motorka zaparkovaná vonku viditelna cez okno
+#### 5. Cafe / Urban
+- Modern cafe
+- Industrial interior
+- Motorcycle parked outside visible through window
 
 ---
 
-## Telefon (pre selfie konzistentnost)
+## Phone (for selfie consistency)
 
 - **Model**: iPhone 15 Pro Max
-- **Farba**: Natural Titanium (striebornobezova)
-- **Case**: Minimalny priehladny case alebo ciery matny case
-- **Prompt note**: Vzdy ten isty telefon pri mirror selfie
+- **Color**: Natural Titanium (silver-beige)
+- **Case**: Minimal clear case or black matte case
+- **Prompt note**: Always the same phone in mirror selfies
 
 ---
 
-## Osobnost & Hlas
+## Personality & Voice
 
 ### Tone of Voice
-- Priatelska, priama, trochu drsna ale nie vulgarna
-- Pouziva mix SK/EN slangu
-- Emotikony: minimalne, iba 🏍️ a 🖤
-- Nepouživa vela vykricnikov
+- Friendly, direct, slightly edgy but not vulgar
+- Uses mix of casual English with slight European flair
+- Emojis: minimal, only 🏍️ and 🖤
+- Doesn't use lots of exclamation marks
 
-### Typicke frazy:
+### Signature Phrases:
 - "Ride or die 🏍️"
 - "Wind therapy > actual therapy"
-- "H2 je moj boyfriend"
+- "H2 is my boyfriend"
 - "Night rides hit different"
 
-### Zaujmy & Tematy obsahu
-- Motorky (predovsetkym Kawasaki H2)
-- Nocne jazdy mestom
-- Cestovanie na motorke
+### Interests & Content Topics
+- Motorcycles (primarily Kawasaki H2)
+- Night rides through the city
+- Motorcycle travel
 - Fitness (home workouts)
-- Mechanika (DIY udrzba motorky)
+- Mechanics (DIY motorcycle maintenance)
 - Sunset/sunrise rides
 - Gear reviews
 
 ---
 
-## Socialne siete
+## Social Media
 
-| Platforma | Handle | Typ obsahu |
-|-----------|--------|------------|
-| TikTok | @revarides | Kratke moto videa, POV jazdy, GRWM |
-| Instagram | @revarides | Fotky, reels, stories |
+| Platform | Handle | Content Type |
+|----------|--------|-------------|
+| TikTok | @revarides | Short moto videos, POV rides, GRWM |
+| Instagram | @revarides | Photos, reels, stories |
 | Fanvue | @revarides | Exclusive content (SFW tease -> NSFW) |
-| Linktree | @revarides | Centralny hub na vsetky linky |
+| Linktree | @revarides | Central hub for all links |
 | Email (primary) | revarides@proton.me | Business inquiries |
 | Email (secondary) | revavoss@proton.me | Personal / backup |
 
 ---
 
-## Backstory (pre autenticitu)
+## Backstory (for authenticity)
 
-Reva vyrastala na Slovensku, otec Nemec (preto priezvisko Voss), mama Slovenska. Od 18 rokov na motorke, zacinala na Kawasaki Ninja 400, postupne presla na H2. Zivi sa ako freelance fotografka, ale jej skutocna varen je motorka a obsah okolo toho. Zije sama v modernom byte v Bratislave. Singlova, flirty ale nedostupna ("married to my H2").
+Reva grew up in Slovakia, her father is German (hence the surname Voss), her mother is Slovak. She's been riding motorcycles since she was 18, starting on a Kawasaki Ninja 400 and gradually moving up to the H2. She makes a living as a freelance photographer, but her true passion is motorcycles and content around them. She lives alone in a modern apartment in Bratislava. Single, flirty but unavailable ("married to my H2").
 
 ---
 
 ## DO's and DON'Ts
 
 ### DO:
-- Vzdy rovnaka motorka (Kawasaki H2)
-- Vzdy rovnaka helma (AGV cierna s cervenymi akcentmi)
-- Vzdy rovnaky telefon pri selfie
-- Rovnaka izba/kupelna pri indoor contentoch
-- Konzistentna farba vlasov, ocí, pleti
-- Kozena bunda pri moto fotkach
+- Always the same motorcycle (Kawasaki H2)
+- Always the same helmet (AGV matte black with red accents)
+- Always the same phone in selfies
+- Same bedroom/bathroom for indoor content
+- Consistent hair color, eye color, skin tone
+- Leather jacket in motorcycle photos
 
 ### DON'T:
-- Nikdy ina motorka
-- Nikdy ina farba vlasov
-- Nikdy tetovanie ktore nie je v popise
-- Nikdy iny telefon
-- Nikdy ina helma
-- Nikdy prilis perfektne/plastikove - ma byt realisticka
+- Never a different motorcycle
+- Never a different hair color
+- Never tattoos that aren't in the description
+- Never a different phone
+- Never a different helmet
+- Never too perfect/plastic - should look realistic
