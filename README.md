@@ -14,7 +14,18 @@ AI/
 ├── PROMPTS_SFW.md            # SFW prompty (lifestyle, moto, selfie, outdoor)
 ├── PROMPTS_NSFW.md           # NSFW prompty (Fanvue exclusive, tiers 1-3)
 ├── PROMPTS_VEHICLES.md       # Prompty pre vozidlá (solo, s postavou, detaily)
+├── MONETIZATION.md           # Monetizačná stratégia a revenue plány
+├── POSTING_CALENDAR.md       # Týždenný/mesačný posting kalendár
+├── CAPTIONS_TEMPLATES.md     # Caption šablóny a hashtagy
+├── REVA_VOICE.md             # Komunikačný profil (ako Reva hovorí/píše)
+├── TROUBLESHOOTING.md        # Riešenie problémov pri generovaní
+├── BRAND_PARTNERSHIPS.md     # Stratégia spolupráce s brandmi
 ├── TOOLS_RESEARCH.md         # Výskum AI nástrojov (Stable Diffusion, Flux, atď.)
+├── CLAUDE.md                 # Inštrukcie pre Claude AI asistenta
+├── .claude/                  # Claude memory a rozhodnutia
+│   ├── memory.md             # Trvalá pamäť projektu
+│   ├── decisions.md          # Log rozhodnutí
+│   └── style-guide.md        # Štýlový sprievodca
 └── reference-photos/         # Referenčné fotky pre tréning a štýl
     ├── motorcycle/           # Kawasaki Ninja H2 (19x .avif + 19x .png + INFO.md)
     ├── car/                  # BMW M5 F90 (34x .jpg + INFO.md)
@@ -55,3 +66,15 @@ AI/
   - 6x Reva + BMW M5 (štúdio, kapota, šofér, vystupovanie, nočná jazda, kaviareň)
   - 2x obe vozidlá spolu (garážová kolekcia, ranné odchádzanie)
 - Slovenské ŠPZ: BT-KWSH2 (motorka), XX-BMWM5 (auto) - pravidlá pre blur/skrytie
+
+### 2026-03-21 - Claude konfigurácia a business dokumenty
+- Vytvorený CLAUDE.md - hlavné inštrukcie pre Claude AI asistenta
+- Vytvorený .claude/memory.md - trvalá pamäť (vozidlá, stav projektu, preferencie)
+- Vytvorený .claude/decisions.md - log rozhodnutí s template
+- Vytvorený .claude/style-guide.md - vizuálna identita, prompt templates, social formáty
+- Vytvorený MONETIZATION.md - Fanvue tiers, revenue ciele, náklady, KPI
+- Vytvorený POSTING_CALENDAR.md - týždenný plán, sezónny obsah, batching stratégia
+- Vytvorený CAPTIONS_TEMPLATES.md - caption šablóny pre IG/TikTok/Fanvue/Reddit + hashtag databáza
+- Vytvorený REVA_VOICE.md - komunikačný profil, slovník, reakcie, red lines
+- Vytvorený TROUBLESHOOTING.md - riešenia pre tvár, ruky, vozidlá, ŠPZ, osvetlenie, kvalitu
+- Vytvorený BRAND_PARTNERSHIPS.md - potenciálni partneri, pitch templates, partnership formáty
