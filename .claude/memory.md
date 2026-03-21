@@ -51,7 +51,7 @@
 ## Character Appearance (Updated 2026-03-21)
 - Hair: Silver/platinum with dark roots (mirrors Ninja H2 chrome finish)
 - Makeup: Smoky eye + sharp black winged eyeliner (signature, always present), nude matte lips
-- Tattoos: 5 locations (behind left ear, left sleeve, right fingers, sternum, lower belly/hip)
+- Tattoos: 6 locations (behind left ear, left sleeve, right fingers, sternum, lower belly/hip, right thigh - rose bouquet)
 - All tattoos are blackwork/fine line style - no colorful tattoos
 
 ## Preferred Tools & Models

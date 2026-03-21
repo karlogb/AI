@@ -54,12 +54,14 @@
 | **Right hand/fingers** | Small symbols: dots, thin lines, tiny crescent on ring finger | Stick-and-poke / fine line | Visible in close-ups and selfies |
 | **Sternum/chest** | Ornamental/mandala design between breasts, symmetrical | Fine line, ornamental | Visible in low-cut tops, lingerie |
 | **Lower belly/hip** | Snake wrapped in flowers (from left hip curving toward center) | Blackwork with fine line details | Visible in crop tops, bikini, lingerie |
+| **Right thigh** | Large rose bouquet | Blackwork, realistic | Visible in shorts, bikini, lingerie |
 
 #### Tattoo Prompt Keywords
 ```
 blackwork geometric sleeve tattoo on left arm, mandala mechanical engine tattoo,
 fine line ornamental sternum tattoo, snake and floral hip tattoo,
-small stick-and-poke finger tattoos with dots and crescents
+small stick-and-poke finger tattoos with dots and crescents,
+large realistic black rose bouquet tattoo on right thigh
 ```
 
 #### Tattoo Negative Prompt
