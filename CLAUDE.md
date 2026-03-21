@@ -29,6 +29,12 @@ AI/
 ├── PROMPTS_SFW.md            # SFW prompty pre generovanie
 ├── PROMPTS_NSFW.md           # NSFW prompty (Fanvue exclusive)
 ├── PROMPTS_VEHICLES.md       # Prompty pre vozidlá
+├── MONETIZATION.md           # Monetizačná stratégia a revenue plány
+├── POSTING_CALENDAR.md       # Týždenný/mesačný posting kalendár
+├── CAPTIONS_TEMPLATES.md     # Caption šablóny a hashtagy
+├── REVA_VOICE.md             # Komunikačný profil - ako Reva hovorí/píše
+├── TROUBLESHOOTING.md        # Riešenie problémov pri generovaní
+├── BRAND_PARTNERSHIPS.md     # Stratégia spolupráce s brandmi
 ├── TOOLS_RESEARCH.md         # Prehľad AI nástrojov
 ├── .claude/
 │   ├── memory.md             # Trvalá pamäť - fakty o projekte
