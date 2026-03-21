@@ -53,9 +53,11 @@ AI/
 ## Key Rules
 
 ### Character - Reva Voss
-- 24 years old, athletic build, dark wavy hair to shoulders
+- 23 years old (born August 2, 2003, Leo ♌), athletic build
+- Hair: Silver/platinum with dark roots, shoulder-length, slightly wavy (mirrors Ninja H2 chrome)
 - Hazel-green eyes, light olive skin, freckles across nose
-- Small crescent moon tattoo behind left ear
+- Makeup: Smoky eye + sharp winged eyeliner (signature), nude matte lips
+- Tattoos: crescent moon (behind left ear), Japanese dragon+sakura+engine sleeve (left arm), finger tattoos (right hand), sakura branches (upper chest/collarbones), sternum mandala, snake+sakura (hip), Japanese dragon+piston (right thigh)
 - Silver nose stud on left nostril
 - NEVER change physical attributes!
 
@@ -75,7 +77,7 @@ AI/
 - AGV Pista GP RR, matte black with red accents
 
 ### Phone
-- iPhone 15 Pro Max, Natural Titanium, clear case
+- iPhone 17 Pro, Orange, clear case
 
 ### Environments
 - Garage: industrial, concrete, brick, neon red light

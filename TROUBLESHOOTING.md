@@ -22,12 +22,13 @@
 - In negative prompt: `blue eyes, brown eyes, dark eyes`
 - Increase weight: `(hazel-green eyes:1.3)`
 
-### Issue: Hair is too long/short/straight
-**Cause:** Vague hair description
+### Issue: Hair is too long/short/straight or wrong color
+**Cause:** Vague hair description or model ignoring silver/platinum
 **Solution:**
-- Precise description: `dark brunette wavy hair, shoulder-length, natural waves`
-- Negative: `straight hair, curly hair, long hair, short hair, blonde`
-- Weight: `(shoulder-length dark wavy hair:1.2)`
+- Precise description: `silver platinum hair with dark roots, shoulder-length, slightly wavy`
+- Negative: `straight hair, curly hair, long hair, short hair, blonde, brunette, brown hair, black hair`
+- Weight: `(silver platinum hair with dark roots:1.3)`
+- If roots not showing: `(visible dark roots:1.2)`
 
 ### Issue: Freckles not visible
 **Cause:** Model ignores them at lower resolution
@@ -56,6 +57,34 @@
 - Reference pose from real photo
 - `(correct human anatomy:1.2)` in prompt
 - Avoid extreme camera angles
+
+---
+
+## Tattoos
+
+### Issue: Tattoos missing or in wrong locations
+**Cause:** AI models often ignore tattoo prompts or place them randomly
+**Solution:**
+- Be specific about location AND design: `blackwork geometric sleeve tattoo on left forearm and upper arm`
+- Use ControlNet reference images showing tattoo placement
+- Increase weight: `(geometric sleeve tattoo on left arm:1.3)`
+- Generate with visible skin (short sleeves/tank top) to force tattoo rendering
+- Inpaint tattoos onto correct locations if AI places them wrong
+
+### Issue: Tattoos look colorful or wrong style
+**Cause:** Model defaults to traditional/colorful tattoo style
+**Solution:**
+- Specify style explicitly: `blackwork tattoo, fine line tattoo, no color`
+- Negative prompt: `(colorful tattoos:1.3), (tribal tattoo:1.2), (face tattoo:1.3), (neck tattoo:1.2)`
+- Reference images of blackwork/geometric tattoo style via IP-Adapter
+
+### Issue: Finger tattoos not visible
+**Cause:** Small details lost at standard resolution
+**Solution:**
+- Generate at higher resolution (min 1024x1024)
+- For close-ups/selfies: `small stick-and-poke finger tattoos with dots and tiny crescent on ring finger, right hand`
+- ADetailer for hand refinement
+- May need inpainting for fine details
 
 ---
 
@@ -186,7 +215,9 @@
 
 - [ ] Face is consistent with CHARACTER_BIBLE
 - [ ] Eyes are hazel-green
-- [ ] Hair is dark, wavy, shoulder-length
+- [ ] Hair is silver/platinum with dark roots, wavy, shoulder-length
+- [ ] Makeup: smoky eye + winged eyeliner present
+- [ ] Tattoos match CHARACTER_BIBLE (sleeve on left arm, fingers on right, etc.)
 - [ ] Freckles visible (if close-up)
 - [ ] Nose stud on left side
 - [ ] Hands look normal (5 fingers on each)

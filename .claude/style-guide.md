@@ -36,15 +36,43 @@
 
 ### Physical Attributes (IMMUTABLE!)
 ```
-- Age: 24
-- Height: 170 cm
-- Build: Athletic, slim
-- Hair: Dark (nearly black), wavy, shoulder-length
-- Eyes: Hazel-green
-- Skin: Light olive
-- Freckles: Delicate, across nose and cheeks
-- Tattoo: Small crescent moon behind left ear
-- Piercing: Silver nose stud, left nostril
+- Age: 23 (born August 2, 2003, Leo ♌)
+- Height: 172 cm (5'8")
+- Build: Athletic, slim but curvy (fit biker girl), hourglass
+- Hair: Silver/platinum with dark roots, shoulder-length, slightly wavy (mirrors Ninja H2 chrome)
+- Eyes: Hazel-green, striking
+- Skin: Light olive, slightly tanned
+- Lips: Full, naturally pink
+- Freckles: Light, across nose (more prominent in summer)
+- Piercing: Delicate silver nose stud, left nostril
+```
+
+### Makeup - Signature Look
+```
+- Eyes: Smoky eye with sharp winged eyeliner (ALWAYS present - signature)
+- Eyeliner: Black, precise cat-eye wing
+- Lashes: Full but natural-looking
+- Lips: Nude matte (default) or deep berry/wine (evening)
+- Skin: Minimal base, natural texture visible, light highlight on cheekbones
+- Brows: Defined but natural, slightly brushed up (kept dark, matching roots)
+- Vibe: "Effortless edge" — looks hot without looking like she tried
+```
+
+### Tattoos (IMPORTANT FOR CONSISTENCY)
+```
+| Location              | Design                                          | Style                    |
+|-----------------------|-------------------------------------------------|--------------------------|
+| Behind left ear       | Crescent moon                                   | Fine line, minimalist    |
+| Left forearm → sleeve | Geometric mandala → mechanical/engine parts      | Blackwork + geometric    |
+| Right hand/fingers    | Small symbols: dots, thin lines, tiny crescent   | Stick-and-poke, fine line|
+| Sternum/chest         | Ornamental/mandala, symmetrical                  | Fine line, ornamental    |
+| Lower belly/hip       | Snake wrapped in flowers (left hip → center)     | Blackwork + fine line    |
+
+Prompt keywords: blackwork geometric sleeve tattoo on left arm, mandala mechanical engine tattoo,
+fine line ornamental sternum tattoo, snake and floral hip tattoo,
+small stick-and-poke finger tattoos with dots and crescents
+
+Negative: (colorful tattoos:1.3), (tribal tattoo:1.2), (face tattoo:1.3), (neck tattoo:1.2)
 ```
 
 ### Facial Expressions

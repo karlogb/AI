@@ -5,11 +5,14 @@
 | Parameter | Value |
 |-----------|-------|
 | **Name** | Reva Voss |
-| **Age** | 24 years old |
+| **Username** | @revarides (same across all platforms) |
+| **Date of Birth** | August 2, 2003 (23 years old, Leo ♌) |
 | **Nationality** | Half Slovak, half German |
 | **Location** | Bratislava / Vienna (commuter) |
 | **Occupation** | Freelance photographer & motorcycle rider / content creator |
 | **Personality** | Bold, spontaneous, slightly mysterious, flirty but classy |
+| **Email (primary)** | revarides@proton.me |
+| **Email (backup)** | revavoss@proton.me (private) |
 
 ---
 
@@ -21,17 +24,53 @@
 - **Body type**: Hourglass, toned arms & legs
 
 ### Facial Features
-- **Hair**: Dark brunette, shoulder-length, slightly wavy
+- **Hair**: Silver/platinum with dark roots, shoulder-length, slightly wavy (mirrors the Ninja H2 chrome finish)
 - **Eyes**: Hazel-green, striking
 - **Skin**: Light olive skin, slightly tanned
 - **Lips**: Full, naturally pink
-- **Eyebrows**: Prominent, natural thick brows
+- **Eyebrows**: Prominent, natural thick brows (kept dark, matching the dark roots)
 - **Nose**: Straight, delicate
 
+### Makeup - Signature Look
+- **Eyes**: Smoky eye with sharp winged eyeliner (signature — always present)
+- **Eyeliner**: Black, precise cat-eye wing
+- **Lashes**: Full but natural-looking (no over-the-top falsies)
+- **Lips**: Nude matte or deep berry/wine for evening content
+- **Skin**: Minimal base, natural skin texture visible, light highlight on cheekbones
+- **Brows**: Defined but natural, slightly brushed up
+- **Overall vibe**: "Effortless edge" — looks like she rolled out of bed hot, not like she spent 2 hours doing makeup
+- **Prompt keywords**: `smoky eyeshadow, sharp black winged eyeliner, cat-eye, nude matte lips, natural skin, highlighted cheekbones`
+
 ### Distinctive Features
-- Light freckles across nose (more prominent in summer)
-- Small tattoo behind ear (minimalist crescent moon)
-- Piercing - delicate nose stud (left side)
+- Light freckles across nose (more prominent in summer, visible through minimal makeup)
+- Piercing: delicate silver nose stud (left nostril)
+
+### Tattoos (IMPORTANT FOR CONSISTENCY)
+
+| Location | Design | Style | Visibility |
+|----------|--------|-------|------------|
+| **Behind left ear** | Crescent moon | Fine line, minimalist | Visible when hair is up/tucked |
+| **Left forearm → full sleeve** | Japanese dragon with sakura (cherry blossom) and mechanical engine parts | Japanese blackwork + irezumi | Always visible in short sleeves |
+| **Right hand/fingers** | Small symbols: dots, thin lines, tiny crescent on ring finger | Stick-and-poke / fine line | Visible in close-ups and selfies |
+| **Upper chest (above breasts)** | Sakura branches extending from shoulders across collarbones toward chest | Fine line, Japanese | Visible in regular tops, always visible |
+| **Sternum (between breasts)** | Ornamental/mandala design, symmetrical | Fine line, ornamental | Visible in low-cut tops, lingerie |
+| **Lower belly/hip** | Snake wrapped in sakura flowers (from left hip curving toward center) | Blackwork, Japanese | Visible in crop tops, bikini, lingerie |
+| **Right thigh** | Japanese dragon with piston/engine elements and sakura | Blackwork, Japanese realistic | Visible in shorts, bikini, lingerie |
+
+#### Tattoo Prompt Keywords
+```
+Japanese blackwork irezumi sleeve tattoo on left arm with dragon sakura and engine parts,
+fine line sakura cherry blossom tattoo on upper chest and collarbones,
+fine line ornamental sternum mandala tattoo,
+snake and sakura hip tattoo, Japanese dragon with piston tattoo on right thigh,
+small stick-and-poke finger tattoos with dots and crescents
+```
+
+#### Tattoo Negative Prompt
+```
+(colorful tattoos:1.3), (tribal tattoo:1.2), (face tattoo:1.3),
+(neck tattoo:1.2), (full body tattoo:1.2), (blurry tattoo:1.2)
+```
 
 ---
 
@@ -124,8 +163,8 @@ LED headlights, 998cc supercharged inline-four engine
 
 ## Phone (for selfie consistency)
 
-- **Model**: iPhone 15 Pro Max
-- **Color**: Natural Titanium (silver-beige)
+- **Model**: iPhone 17 Pro
+- **Color**: Orange
 - **Case**: Minimal clear case or black matte case
 - **Prompt note**: Always the same phone in mirror selfies
 

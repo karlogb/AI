@@ -10,6 +10,9 @@
 - Prefers concise, efficient communication
 - Pushes photos directly to main branch, Claude works on feature branches
 - All .md files should be written in English
+- Reva's birthday: August 2, 2003 (23 years old, Leo ♌)
+- Primary email: revarides@proton.me
+- Backup email: revavoss@proton.me (private)
 
 ## Project Status
 - **Phase:** Preparation (character bible, prompts, reference photos)
@@ -45,7 +48,17 @@
 - Some AVIF files are too large for direct reading (>256KB)
 - JPG photos of BMW are fine for direct display (~100-230KB)
 
-## Preferred Tools & Models (from TOOLS_RESEARCH.md)
-- Stable Diffusion XL + LoRA for consistency
+## Character Appearance (Updated 2026-03-21)
+- Hair: Silver/platinum with dark roots (mirrors Ninja H2 chrome finish)
+- Makeup: Smoky eye + sharp black winged eyeliner (signature, always present), nude matte lips
+- Tattoos: 7 locations (behind left ear, left sleeve - Japanese dragon/sakura/engine, right fingers, upper chest - sakura branches, sternum mandala, lower belly/hip - snake+sakura, right thigh - Japanese dragon/piston)
+- All tattoos are blackwork/fine line/Japanese irezumi style - no colorful tattoos
+- Tattoo theme: Japanese (sakura, dragon) + automotive/moto (engine parts, pistons)
+
+## Preferred Tools & Models
+- **Foxy AI** ($49/mo) - SFW photos via Digital Double, best for consistency
+- **ZenCreator** (~$20-30/mo) - NSFW content via face swap from Foxy AI reference
+- **Higgsfield** ($9-119/mo) - Video content (Sora 2, Kling 2.6, Veo 3.1)
+- Recommended stack: Foxy AI + ZenCreator = ~$70-80/mo to start
+- Stable Diffusion XL + LoRA as fallback for consistency
 - RealVisXL / Juggernaut XL as base checkpoints
-- Flux for highest quality (if available)

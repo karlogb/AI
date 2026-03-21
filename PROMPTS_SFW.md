@@ -3,10 +3,14 @@
 ## Base Character Prompt (always use as foundation)
 
 ```
-A 24-year-old woman, athletic slim hourglass figure, dark brunette wavy hair
-shoulder-length, hazel-green eyes, light olive skin, full natural lips, thick
-natural eyebrows, straight delicate nose, light freckles across nose, small
-crescent moon tattoo behind left ear, small silver nose stud on left nostril.
+A 23-year-old woman, athletic slim hourglass figure, silver platinum hair with
+dark roots shoulder-length slightly wavy, hazel-green eyes, light olive skin,
+full natural lips, thick natural dark eyebrows, straight delicate nose, light
+freckles across nose, smoky eyeshadow, sharp black winged eyeliner, cat-eye,
+nude matte lips, natural skin, highlighted cheekbones, small crescent moon
+tattoo behind left ear, blackwork geometric sleeve tattoo on left arm,
+small stick-and-poke finger tattoos on right hand, small silver nose stud
+on left nostril.
 ```
 
 ---
@@ -55,7 +59,7 @@ lifestyle photography
 ### Classic mirror selfie
 ```
 [CHARACTER PROMPT], taking a mirror selfie in a modern minimalist bedroom,
-holding iPhone 15 Pro Max in Natural Titanium color with clear case, wearing
+holding iPhone 17 Pro in Orange color with clear case, wearing
 oversized black Metallica t-shirt, grey jogger shorts, LED strip warm white
 lights on the wall, grey/white walls, bed with white sheets and black throw
 blanket visible, monstera plant in corner, motorcycle helmet on nightstand,
@@ -66,7 +70,7 @@ natural relaxed expression, slightly messy hair, realistic phone selfie quality
 ```
 [CHARACTER PROMPT], getting ready in front of a large mirror in modern minimalist
 bedroom, wearing white tank top, applying minimal makeup, natural morning light
-from window, warm tones, iPhone 15 Pro Max Natural Titanium on the desk,
+from window, warm tones, iPhone 17 Pro Orange on the desk,
 motorcycle keys visible, cozy authentic vibe, candid shot, photorealistic
 ```
 
@@ -78,7 +82,7 @@ motorcycle keys visible, cozy authentic vibe, candid shot, photorealistic
 ```
 [CHARACTER PROMPT], mirror selfie in modern bathroom with white tiles and wooden
 accents, wet wavy hair, wearing white towel wrapped, warm lighting, steamy
-atmosphere, iPhone 15 Pro Max Natural Titanium in hand with clear case, natural
+atmosphere, iPhone 17 Pro Orange in hand with clear case, natural
 no-makeup look, relaxed expression, photorealistic
 ```
 
