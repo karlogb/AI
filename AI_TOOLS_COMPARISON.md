@@ -166,6 +166,37 @@
 
 ---
 
+## Cross-Platform Workflow: Foxy AI + ZenCreator
+
+### The Problem
+Foxy AI has the best consistency but NO NSFW support.
+ZenCreator supports NSFW but doesn't have Foxy's "Digital Double" training.
+
+### The Solution: Face Swap Bridge
+1. **Foxy AI** → Generate 10-15 high-quality SFW photos of Reva (different angles, lighting)
+2. **ZenCreator** → Generate NSFW content (poses, scenes, outfits) with any face
+3. **ZenCreator Face Swap** → Replace the face on NSFW photos with Reva's face from Foxy AI photos
+4. **Result:** Same face across all SFW and NSFW content
+
+### Important Notes
+- Foxy AI's Digital Double is **platform-locked** — no model export available
+- ZenCreator Face Swap uses neural networks to detect facial landmarks, map expressions, blend skin tones
+- Use clean, sharp, well-lit face photos as reference
+- Set Reference Strength to ~0.8 for best results
+- Generate 8-10 variations per reference to find best output
+- Face Swap is most reliable as the **final step** in the workflow
+- Generation takes ~30 seconds per swap
+
+### Recommended Face Reference Pack (from Foxy AI)
+Save these types of Reva photos for ZenCreator face swap:
+- Front-facing, neutral expression, good lighting (primary reference)
+- 3/4 angle left, 3/4 angle right
+- Slight smile, serious expression
+- Different lighting conditions (warm, cool, dramatic)
+- Close-up showing freckles, nose stud, eye color detail
+
+---
+
 ## Sources
 
 - [Foxy AI](https://foxy.ai/)
