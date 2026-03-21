@@ -53,7 +53,7 @@ AI/
 ## Key Rules
 
 ### Character - Reva Voss
-- 24 years old, athletic build, dark wavy hair to shoulders
+- 23 years old (born August 2, 2003, Leo ♌), athletic build, dark wavy hair to shoulders
 - Hazel-green eyes, light olive skin, freckles across nose
 - Small crescent moon tattoo behind left ear
 - Silver nose stud on left nostril
@@ -75,7 +75,7 @@ AI/
 - AGV Pista GP RR, matte black with red accents
 
 ### Phone
-- iPhone 15 Pro Max, Natural Titanium, clear case
+- iPhone 17 Pro, Orange, clear case
 
 ### Environments
 - Garage: industrial, concrete, brick, neon red light

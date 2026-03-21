@@ -91,7 +91,7 @@
 |-------|---------|---------------|
 | **GoPro** | Action cameras | POV ride footage |
 | **Insta360** | 360° cameras | Immersive ride content |
-| **Apple** | iPhone (already uses 15 Pro Max) | "Shot on iPhone" |
+| **Apple** | iPhone (already uses 17 Pro) | "Shot on iPhone" |
 | **Samsung** | Apple alternative | Tech comparison |
 | **Anker** | Chargers, power banks | Travel/ride essentials |
 | **Peak Design** | Phone case, mount system | Everyday carry |

@@ -1,7 +1,7 @@
 # AI - Reva Voss Project
 
 ## About the Project
-AI-generated virtual influencer **Reva Voss** (24 years old) - motorcyclist and automotive lifestyle content creator. The project involves generating realistic AI photographs for social media (TikTok, Instagram) and premium content (Fanvue).
+AI-generated virtual influencer **Reva Voss** (23 years old) - motorcyclist and automotive lifestyle content creator. The project involves generating realistic AI photographs for social media (TikTok, Instagram) and premium content (Fanvue).
 
 ## Project Structure
 

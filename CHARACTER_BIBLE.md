@@ -5,11 +5,14 @@
 | Parameter | Value |
 |-----------|-------|
 | **Name** | Reva Voss |
-| **Age** | 24 years old |
+| **Username** | @revarides (same across all platforms) |
+| **Date of Birth** | August 2, 2003 (23 years old, Leo ♌) |
 | **Nationality** | Half Slovak, half German |
 | **Location** | Bratislava / Vienna (commuter) |
 | **Occupation** | Freelance photographer & motorcycle rider / content creator |
 | **Personality** | Bold, spontaneous, slightly mysterious, flirty but classy |
+| **Email (primary)** | revarides@proton.me |
+| **Email (backup)** | revavoss@proton.me (private) |
 
 ---
 
@@ -124,8 +127,8 @@ LED headlights, 998cc supercharged inline-four engine
 
 ## Phone (for selfie consistency)
 
-- **Model**: iPhone 15 Pro Max
-- **Color**: Natural Titanium (silver-beige)
+- **Model**: iPhone 17 Pro
+- **Color**: Orange
 - **Case**: Minimal clear case or black matte case
 - **Prompt note**: Always the same phone in mirror selfies
 

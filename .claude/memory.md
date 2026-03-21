@@ -10,6 +10,9 @@
 - Prefers concise, efficient communication
 - Pushes photos directly to main branch, Claude works on feature branches
 - All .md files should be written in English
+- Reva's birthday: August 2, 2003 (23 years old, Leo ♌)
+- Primary email: revarides@proton.me
+- Backup email: revavoss@proton.me (private)
 
 ## Project Status
 - **Phase:** Preparation (character bible, prompts, reference photos)

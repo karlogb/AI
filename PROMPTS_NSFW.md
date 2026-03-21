@@ -49,7 +49,7 @@ neon red ambient, edgy boudoir, photorealistic
 [CHARACTER PROMPT], standing in front of large bedroom mirror, wearing red
 lace lingerie set, fishnet thigh-highs, confident pose hand on hip, modern
 minimalist bedroom, warm lighting, LED strips, full body mirror selfie with
-iPhone 15 Pro Max Natural Titanium, photorealistic boudoir
+iPhone 17 Pro Orange, photorealistic boudoir
 ```
 
 ### Shower tease

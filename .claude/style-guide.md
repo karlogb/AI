@@ -36,7 +36,7 @@
 
 ### Physical Attributes (IMMUTABLE!)
 ```
-- Age: 24
+- Age: 23 (born August 2, 2003, Leo ♌)
 - Height: 170 cm
 - Build: Athletic, slim
 - Hair: Dark (nearly black), wavy, shoulder-length
