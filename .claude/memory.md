@@ -48,7 +48,16 @@
 - Some AVIF files are too large for direct reading (>256KB)
 - JPG photos of BMW are fine for direct display (~100-230KB)
 
-## Preferred Tools & Models (from TOOLS_RESEARCH.md)
-- Stable Diffusion XL + LoRA for consistency
+## Character Appearance (Updated 2026-03-21)
+- Hair: Silver/platinum with dark roots (mirrors Ninja H2 chrome finish)
+- Makeup: Smoky eye + sharp black winged eyeliner (signature, always present), nude matte lips
+- Tattoos: 5 locations (behind left ear, left sleeve, right fingers, sternum, lower belly/hip)
+- All tattoos are blackwork/fine line style - no colorful tattoos
+
+## Preferred Tools & Models
+- **Foxy AI** ($49/mo) - SFW photos via Digital Double, best for consistency
+- **ZenCreator** (~$20-30/mo) - NSFW content via face swap from Foxy AI reference
+- **Higgsfield** ($9-119/mo) - Video content (Sora 2, Kling 2.6, Veo 3.1)
+- Recommended stack: Foxy AI + ZenCreator = ~$70-80/mo to start
+- Stable Diffusion XL + LoRA as fallback for consistency
 - RealVisXL / Juggernaut XL as base checkpoints
-- Flux for highest quality (if available)

@@ -24,17 +24,49 @@
 - **Body type**: Hourglass, toned arms & legs
 
 ### Facial Features
-- **Hair**: Dark brunette, shoulder-length, slightly wavy
+- **Hair**: Silver/platinum with dark roots, shoulder-length, slightly wavy (mirrors the Ninja H2 chrome finish)
 - **Eyes**: Hazel-green, striking
 - **Skin**: Light olive skin, slightly tanned
 - **Lips**: Full, naturally pink
-- **Eyebrows**: Prominent, natural thick brows
+- **Eyebrows**: Prominent, natural thick brows (kept dark, matching the dark roots)
 - **Nose**: Straight, delicate
 
+### Makeup - Signature Look
+- **Eyes**: Smoky eye with sharp winged eyeliner (signature — always present)
+- **Eyeliner**: Black, precise cat-eye wing
+- **Lashes**: Full but natural-looking (no over-the-top falsies)
+- **Lips**: Nude matte or deep berry/wine for evening content
+- **Skin**: Minimal base, natural skin texture visible, light highlight on cheekbones
+- **Brows**: Defined but natural, slightly brushed up
+- **Overall vibe**: "Effortless edge" — looks like she rolled out of bed hot, not like she spent 2 hours doing makeup
+- **Prompt keywords**: `smoky eyeshadow, sharp black winged eyeliner, cat-eye, nude matte lips, natural skin, highlighted cheekbones`
+
 ### Distinctive Features
-- Light freckles across nose (more prominent in summer)
-- Small tattoo behind ear (minimalist crescent moon)
-- Piercing - delicate nose stud (left side)
+- Light freckles across nose (more prominent in summer, visible through minimal makeup)
+- Piercing: delicate silver nose stud (left nostril)
+
+### Tattoos (IMPORTANT FOR CONSISTENCY)
+
+| Location | Design | Style | Visibility |
+|----------|--------|-------|------------|
+| **Behind left ear** | Crescent moon | Fine line, minimalist | Visible when hair is up/tucked |
+| **Left forearm → full sleeve** | Geometric mandala flowing into mechanical/engine parts | Blackwork + geometric | Always visible in short sleeves |
+| **Right hand/fingers** | Small symbols: dots, thin lines, tiny crescent on ring finger | Stick-and-poke / fine line | Visible in close-ups and selfies |
+| **Sternum/chest** | Ornamental/mandala design between breasts, symmetrical | Fine line, ornamental | Visible in low-cut tops, lingerie |
+| **Lower belly/hip** | Snake wrapped in flowers (from left hip curving toward center) | Blackwork with fine line details | Visible in crop tops, bikini, lingerie |
+
+#### Tattoo Prompt Keywords
+```
+blackwork geometric sleeve tattoo on left arm, mandala mechanical engine tattoo,
+fine line ornamental sternum tattoo, snake and floral hip tattoo,
+small stick-and-poke finger tattoos with dots and crescents
+```
+
+#### Tattoo Negative Prompt
+```
+(colorful tattoos:1.3), (tribal tattoo:1.2), (face tattoo:1.3),
+(neck tattoo:1.2), (full body tattoo:1.2), (blurry tattoo:1.2)
+```
 
 ---
 

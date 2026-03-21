@@ -84,3 +84,12 @@ AI/
 - Created TODO.md - complete project roadmap with 7 phases, daily operations checklist
 - Created AI_TOOLS_COMPARISON.md - comparison of Foxy AI, Higgsfield, ZenCreator, InfluencerStudio, SynthLife, SDXL
 - Recommended tool stack: Foxy AI (SFW photos) + ZenCreator (NSFW) + Higgsfield (videos)
+
+### 2026-03-21 - Character Redesign
+- Hair: Changed from dark brunette to silver/platinum with dark roots (mirrors Ninja H2 chrome)
+- Added signature makeup: smoky eye + sharp winged eyeliner (always present)
+- Added 5 tattoo locations: behind left ear (moon), left arm sleeve (geometric/mechanical), right hand fingers (stick-and-poke), sternum (ornamental mandala), lower belly/hip (snake+flowers)
+- Updated all prompt files (SFW, NSFW, Vehicles) with new character description
+- Updated CLAUDE.md, style-guide.md, memory.md with new appearance
+- Added tattoo troubleshooting section to TROUBLESHOOTING.md
+- Updated pre-publishing checklist with makeup and tattoo checks

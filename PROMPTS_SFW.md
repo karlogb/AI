@@ -3,10 +3,14 @@
 ## Base Character Prompt (always use as foundation)
 
 ```
-A 24-year-old woman, athletic slim hourglass figure, dark brunette wavy hair
-shoulder-length, hazel-green eyes, light olive skin, full natural lips, thick
-natural eyebrows, straight delicate nose, light freckles across nose, small
-crescent moon tattoo behind left ear, small silver nose stud on left nostril.
+A 23-year-old woman, athletic slim hourglass figure, silver platinum hair with
+dark roots shoulder-length slightly wavy, hazel-green eyes, light olive skin,
+full natural lips, thick natural dark eyebrows, straight delicate nose, light
+freckles across nose, smoky eyeshadow, sharp black winged eyeliner, cat-eye,
+nude matte lips, natural skin, highlighted cheekbones, small crescent moon
+tattoo behind left ear, blackwork geometric sleeve tattoo on left arm,
+small stick-and-poke finger tattoos on right hand, small silver nose stud
+on left nostril.
 ```
 
 ---

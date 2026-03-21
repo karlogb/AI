@@ -53,9 +53,11 @@ AI/
 ## Key Rules
 
 ### Character - Reva Voss
-- 23 years old (born August 2, 2003, Leo ♌), athletic build, dark wavy hair to shoulders
+- 23 years old (born August 2, 2003, Leo ♌), athletic build
+- Hair: Silver/platinum with dark roots, shoulder-length, slightly wavy (mirrors Ninja H2 chrome)
 - Hazel-green eyes, light olive skin, freckles across nose
-- Small crescent moon tattoo behind left ear
+- Makeup: Smoky eye + sharp winged eyeliner (signature), nude matte lips
+- Tattoos: crescent moon (behind left ear), geometric sleeve (left arm), finger tattoos (right hand), sternum mandala, snake+flowers (hip)
 - Silver nose stud on left nostril
 - NEVER change physical attributes!
 
