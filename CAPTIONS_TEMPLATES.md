@@ -1,30 +1,30 @@
 # Captions & Hashtags - Reva Voss
 
-> Predpripravené caption šablóny a hashtagy pre konzistentný tone of voice.
+> Pre-made caption templates and hashtags for consistent tone of voice.
 
 ---
 
-## Caption štýl - pravidlá
+## Caption Style Rules
 
-### Tone of voice
-- **Sebavedomá** ale nie arogantná
-- **Hravá** ale nie detinská
-- **Mysteriózna** - nikdy nepovedať všetko
-- **Automotive knowledge** - vie o čom hovorí
-- **Mix jazykov** - primárne angličtina, občas slovenčina
+### Tone of Voice
+- **Confident** but not arrogant
+- **Playful** but not childish
+- **Mysterious** - never reveal everything
+- **Automotive knowledge** - knows what she's talking about
+- **Language mix** - primarily English, occasional Slovak
 
-### Formátovanie
-- Prvý riadok = hook (najdôležitejší - viditeľný pred "more")
-- Krátke vety, max 2-3 riadky pred break
-- Emoji: len 🏍️ a 🖤 (CHARACTER_BIBLE pravidlo)
-- CTA na konci (otázka alebo odkaz)
-- Hashtags pod čiarou alebo v komentári
+### Formatting
+- First line = hook (most important - visible before "more")
+- Short sentences, max 2-3 lines before break
+- Emoji: only 🏍️ and 🖤 (CHARACTER_BIBLE rule)
+- CTA at the end (question or link)
+- Hashtags below separator or in comment
 
 ---
 
-## Instagram Feed - šablóny
+## Instagram Feed Templates
 
-### Motorka / jazda
+### Motorcycle / Riding
 ```
 Night rides hit different. 🏍️
 
@@ -80,7 +80,7 @@ I just need speed.
 #bmwm5f90 #darkside #carporn
 ```
 
-### Lifestyle / casual
+### Lifestyle / Casual
 ```
 Garage days > everything else. 🏍️
 
@@ -107,7 +107,7 @@ there's a ride involved.
 #earlyride #motorcycleaddict #nomondayblues
 ```
 
-### Glamour / thirst trap (IG friendly)
+### Glamour / Thirst Trap (IG friendly)
 ```
 The leather jacket stays on. 🖤
 
@@ -123,7 +123,7 @@ Don't let anyone tell you otherwise.
 #mirrorselfie #fitcheck #ootd
 ```
 
-### Garáž / behind scenes
+### Garage / Behind Scenes
 ```
 She's getting some love today. 🏍️
 
@@ -131,14 +131,14 @@ Chain tension, brake check, oil level.
 Weekend prep is a ritual, not a chore.
 
 ---
-#bikemaintenance #garagetime #mecahniclife
+#bikemaintenance #garagetime #mechaniclife
 ```
 
 ---
 
-## TikTok captions
+## TikTok Captions
 
-### Krátke (pre videá)
+### Short (for videos)
 ```
 POV: she picks you up on a Ninja H2 🏍️
 ```
@@ -172,9 +172,9 @@ POV: matte black M5 at night
 
 ---
 
-## Fanvue captions
+## Fanvue Captions
 
-### Subscription posts
+### Subscription Posts
 ```
 Good morning from the garage 🖤
 
@@ -193,7 +193,7 @@ the ride or the adrenaline more.
 Full set dropping tonight for subscribers 🖤
 ```
 
-### PPV teasery
+### PPV Teasers
 ```
 This set was... different. 🖤
 
@@ -213,7 +213,7 @@ made a guest appearance... and then didn't.
 [Unlock for €15]
 ```
 
-### DM šablóny (pre chatbot)
+### DM Templates (for chatbot)
 ```
 Hey! 🖤 Thanks for subscribing.
 You're officially part of the inner circle.
@@ -228,7 +228,7 @@ Want to see something exclusive? 🏍️
 
 ---
 
-## Reddit post titles
+## Reddit Post Titles
 
 ### r/MotorcyclePorn
 ```
@@ -249,7 +249,7 @@ Matte black F90 M5 — Sunday morning vibes [OC]
 Yellow angel eyes on the M5. Small mod, big difference [OC]
 ```
 
-### r/bikerchicks (a podobné)
+### r/bikerchicks (and similar)
 ```
 Garage days are the best days 🏍️
 ```
@@ -262,23 +262,23 @@ Night ride ready
 
 ---
 
-## Hashtag databáza
+## Hashtag Database
 
-### Hlavné (vždy používať, rotovať 15-20)
+### Core (always use, rotate 15-20)
 ```
 #motogirl #bikerlife #bikerchick #girlsonbikes
 #motorcyclelife #rideordie #bikerbabe #twowheels
 #sportbike #superbike #bikerlifestyle #motolife
 ```
 
-### Kawasaki špecifické
+### Kawasaki Specific
 ```
 #kawasaki #ninjah2 #kawasakininja #h2 #supercharged
 #kawasakih2 #ninja #greenteam #kawasakilife
 #superchargedmotorcycle
 ```
 
-### BMW špecifické
+### BMW Specific
 ```
 #bmw #bmwm5 #m5 #f90 #f90m5 #bmwm #mpower
 #bmwlife #matteblack #v8 #bmwmotorsport
@@ -288,44 +288,44 @@ Night ride ready
 ```
 #garagelife #nightride #morningride #coffeeandbikes
 #leatherjacket #darkaesthetic #bikeraesthetic
-#mecahnicgirl #wrenchday
+#mechanicgirl #wrenchday
 ```
 
-### Growth hackingové
+### Growth Hacking
 ```
 #explorepage #fyp #viral #trending #reelsinstagram
 #tiktokviral #contentcreator #influencer
 ```
 
-### Lokálne (slovenské)
+### Local (Slovak)
 ```
 #slovakia #bratislava #tatry #slovakroads
 #motoslovensko #bikerslovakia
 ```
 
-### NSFW/Fanvue promo (len na Reddite)
+### NSFW/Fanvue Promo (Reddit only)
 ```
 #fanvue #exclusivecontent #linkinbio
 ```
 
 ---
 
-## CTA (Call-to-Action) variácie
+## CTA (Call-to-Action) Variations
 
-### Pre engagement
+### For Engagement
 - "What's your dream bike? Drop it below 👇"
 - "Tag someone who needs to see this"
 - "Rate this setup 1-10"
 - "Agree or disagree?"
 - "Would you ride pillion with me?"
 
-### Pre konverziu (IG → Fanvue)
+### For Conversion (IG → Fanvue)
 - "Full set on my exclusive page 🖤 link in bio"
 - "Behind the scenes? You know where to find it"
 - "The uncropped version is somewhere special..."
 - "This is the SFW version 😏"
 
-### Pre uloženie/zdieľanie
+### For Saves/Shares
 - "Save this for your next ride inspiration"
 - "Share with your riding crew"
 - "Bookmark this route for summer"

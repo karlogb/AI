@@ -1,198 +1,198 @@
-# Troubleshooting - Riešenie problémov
+# Troubleshooting - Common Issues & Solutions
 
-> Časté problémy pri AI generovaní obsahu a ich riešenia.
-> Aktualizuj pri každom novom probléme a riešení.
+> Common problems encountered during AI content generation and their solutions.
+> Update whenever a new problem and solution is found.
 
 ---
 
-## Tvár a konzistentnosť
+## Face & Consistency
 
-### Problém: Tvár sa mení medzi generáciami
-**Príčina:** Nedostatočný LoRA weight alebo chýbajúce face reference
-**Riešenie:**
-- Použiť "triple stack": LoRA (weight 0.6-0.7) + PuLID (0.8) + ControlNet OpenPose
-- Vždy zahrnúť detailný popis tváre v prompte
-- Reference image cez IP-Adapter FaceID
-- Seed locking pre podobné výsledky
+### Issue: Face changes between generations
+**Cause:** Insufficient LoRA weight or missing face reference
+**Solution:**
+- Use "triple stack": LoRA (weight 0.6-0.7) + PuLID (0.8) + ControlNet OpenPose
+- Always include detailed face description in prompt
+- Reference image via IP-Adapter FaceID
+- Seed locking for similar results
 
-### Problém: Oči majú zlú farbu
-**Príčina:** Model defaultuje na hnedé/modré oči
-**Riešenie:**
-- Explicitne v prompte: `hazel-green eyes, green-hazel iris`
-- V negatívnom prompte: `blue eyes, brown eyes, dark eyes`
-- Zvýšiť weight: `(hazel-green eyes:1.3)`
+### Issue: Eyes have wrong color
+**Cause:** Model defaults to brown/blue eyes
+**Solution:**
+- Explicitly in prompt: `hazel-green eyes, green-hazel iris`
+- In negative prompt: `blue eyes, brown eyes, dark eyes`
+- Increase weight: `(hazel-green eyes:1.3)`
 
-### Problém: Vlasy sú príliš dlhé/krátke/rovné
-**Príčina:** Vágny popis vlasov
-**Riešenie:**
-- Presný popis: `dark brunette wavy hair, shoulder-length, natural waves`
-- Negatívny: `straight hair, curly hair, long hair, short hair, blonde`
+### Issue: Hair is too long/short/straight
+**Cause:** Vague hair description
+**Solution:**
+- Precise description: `dark brunette wavy hair, shoulder-length, natural waves`
+- Negative: `straight hair, curly hair, long hair, short hair, blonde`
 - Weight: `(shoulder-length dark wavy hair:1.2)`
 
-### Problém: Pehy nie sú viditeľné
-**Príčina:** Model ich ignoruje pri nižšom rozlíšení
-**Riešenie:**
+### Issue: Freckles not visible
+**Cause:** Model ignores them at lower resolution
+**Solution:**
 - `(light freckles across nose and cheeks:1.2)`
-- Generovať vo vyššom rozlíšení (min 1024x1024)
-- ADetailer pre face refinement
+- Generate at higher resolution (min 1024x1024)
+- ADetailer for face refinement
 
 ---
 
-## Ruky a anatómia
+## Hands & Anatomy
 
-### Problém: Deformované ruky / extra prsty
-**Príčina:** Klasický SD problém, hlavne pri komplexných pózach
-**Riešenie:**
-- Negatívny prompt: `bad hands, extra fingers, missing fingers, fused fingers, deformed hands, mutated hands`
-- ControlNet OpenPose pre správnu pózu
-- ADetailer s "hand" detection
-- Generovať viac variant a vybrať najlepšiu
-- Inpainting na opravu rúk
+### Issue: Deformed hands / extra fingers
+**Cause:** Classic SD issue, especially with complex poses
+**Solution:**
+- Negative prompt: `bad hands, extra fingers, missing fingers, fused fingers, deformed hands, mutated hands`
+- ControlNet OpenPose for correct pose
+- ADetailer with "hand" detection
+- Generate multiple variants and pick the best
+- Inpainting to fix hands
 
-### Problém: Anatómia je "off" (proporcie)
-**Príčina:** Nesprávny aspect ratio alebo komplexná póza
-**Riešenie:**
-- ControlNet OpenPose alebo DWPose
-- Referenčná póza z reálnej fotky
-- `(correct human anatomy:1.2)` v prompte
-- Vyhnúť sa extrémnym uhlom kamery
-
----
-
-## Vozidlá
-
-### Problém: Motorka nevyzerá ako Ninja H2
-**Príčina:** Model nepozná špecifický model
-**Riešenie:**
-- Detailný popis: `Kawasaki Ninja H2, mirror black chrome fairings, green trellis frame, supercharger badge visible, Akrapovic carbon exhaust`
-- IP-Adapter s referenčnou fotkou motorky
-- ControlNet Canny/Depth z referenčnej fotky
-- LoRA trénovaný na H2 fotkách (ak dostupný)
-
-### Problém: BMW M5 má zlé detaily
-**Príčina:** Model mixuje rôzne generácie M5
-**Riešenie:**
-- Špecifikovať: `BMW M5 F90 2019, matte black wrap, yellow angel eye headlights, black wheels, blue M brake calipers`
-- Referenčné fotky cez IP-Adapter
-- ControlNet pre správny tvar
-
-### Problém: ŠPZ je čitateľná!
-**Príčina:** Model generuje realistický text na ŠPZ
-**Riešenie (KRITICKÉ):**
-- VŽDY v negatívnom prompte: `(readable text on license plate:1.5), (visible license plate text:1.3), (clear license plate:1.3)`
-- Kompozícia: ŠPZ mimo záber, v tieni, rozmazaná
-- Post-processing: Blur ŠPZ v editore
-- Inpainting: Prepísať ŠPZ oblasť
-- Motion blur efekt na celé vozidlo
+### Issue: Anatomy is "off" (proportions)
+**Cause:** Incorrect aspect ratio or complex pose
+**Solution:**
+- ControlNet OpenPose or DWPose
+- Reference pose from real photo
+- `(correct human anatomy:1.2)` in prompt
+- Avoid extreme camera angles
 
 ---
 
-## Osvetlenie a farby
+## Vehicles
 
-### Problém: Flat, nudné osvetlenie
-**Príčina:** Chýba špecifický lighting prompt
-**Riešenie:**
-- Vždy špecifikovať svetlo: `dramatic side lighting, neon red glow, golden hour sunlight, moody low-key lighting`
-- Pridať zdroj svetla: `lit by neon signs, single overhead light, window light`
-- Negatívny: `flat lighting, overexposed, evenly lit`
+### Issue: Motorcycle doesn't look like Ninja H2
+**Cause:** Model doesn't know the specific model
+**Solution:**
+- Detailed description: `Kawasaki Ninja H2, mirror black chrome fairings, green trellis frame, supercharger badge visible, Akrapovic carbon exhaust`
+- IP-Adapter with motorcycle reference photo
+- ControlNet Canny/Depth from reference photo
+- LoRA trained on H2 photos (if available)
 
-### Problém: Farby sú príliš saturované / nerealistické
-**Príčina:** Model "AI look"
-**Riešenie:**
+### Issue: BMW M5 has wrong details
+**Cause:** Model mixes different M5 generations
+**Solution:**
+- Specify: `BMW M5 F90 2019, matte black wrap, yellow angel eye headlights, black wheels, blue M brake calipers`
+- Reference photos via IP-Adapter
+- ControlNet for correct shape
+
+### Issue: License plate is readable!
+**Cause:** Model generates realistic text on plates
+**Solution (CRITICAL):**
+- ALWAYS in negative prompt: `(readable text on license plate:1.5), (visible license plate text:1.3), (clear license plate:1.3)`
+- Composition: plate out of frame, in shadow, blurred
+- Post-processing: Blur plate in editor
+- Inpainting: Override plate area
+- Motion blur effect on entire vehicle
+
+---
+
+## Lighting & Colors
+
+### Issue: Flat, boring lighting
+**Cause:** Missing specific lighting prompt
+**Solution:**
+- Always specify lighting: `dramatic side lighting, neon red glow, golden hour sunlight, moody low-key lighting`
+- Add light source: `lit by neon signs, single overhead light, window light`
+- Negative: `flat lighting, overexposed, evenly lit`
+
+### Issue: Colors are too saturated / unrealistic
+**Cause:** Model "AI look"
+**Solution:**
 - `raw photo, film grain, natural colors, muted tones`
-- Znížiť CFG scale (7-8 namiesto 10+)
-- Post-processing: desaturate mierne
-- Negatívny: `oversaturated, HDR, hyperrealistic colors`
+- Lower CFG scale (7-8 instead of 10+)
+- Post-processing: slight desaturation
+- Negative: `oversaturated, HDR, hyperrealistic colors`
 
-### Problém: Skin tone je nekonzistentný
-**Príčina:** Rôzne lighting conditions
-**Riešenie:**
-- Vždy: `light olive skin tone, warm undertone, Mediterranean complexion`
-- Negatívny: `pale skin, dark skin, tan, sunburn`
-- Konzistentný lighting setup medzi setmi
+### Issue: Skin tone is inconsistent
+**Cause:** Different lighting conditions
+**Solution:**
+- Always: `light olive skin tone, warm undertone, Mediterranean complexion`
+- Negative: `pale skin, dark skin, tan, sunburn`
+- Consistent lighting setup between sets
 
 ---
 
-## Kvalita a artefakty
+## Quality & Artifacts
 
-### Problém: Rozmazané detaily / low quality output
-**Príčina:** Nízke rozlíšenie alebo nedostatočné steps
-**Riešenie:**
-- Generovať min 1024x1024, upscale na 2048+
+### Issue: Blurry details / low quality output
+**Cause:** Low resolution or insufficient steps
+**Solution:**
+- Generate min 1024x1024, upscale to 2048+
 - Min 30 sampling steps (DPM++ 2M Karras)
-- Hires fix s 0.5-0.7 denoise
+- Hires fix with 0.5-0.7 denoise
 - 4x-UltraSharp upscaler
 
-### Problém: "AI look" - príliš perfect, plastový
-**Príčina:** Prílišná kvalita bez imperfections
-**Riešenie:**
-- Pridať: `raw photo, film grain, slight imperfections, pores visible, natural skin texture`
-- Znížiť CFG (7-9)
+### Issue: "AI look" - too perfect, plastic
+**Cause:** Over-quality without imperfections
+**Solution:**
+- Add: `raw photo, film grain, slight imperfections, pores visible, natural skin texture`
+- Lower CFG (7-9)
 - Photorealistic checkpoint (RealVisXL, Juggernaut)
-- Negatívny: `airbrushed, plastic skin, perfect skin, smooth skin`
+- Negative: `airbrushed, plastic skin, perfect skin, smooth skin`
 
-### Problém: Watermark / text artefakty
-**Príčina:** Training data contamination
-**Riešenie:**
-- Negatívny: `watermark, text, signature, logo, username, copyright`
-- Čistý checkpoint bez NSFW merge issues
+### Issue: Watermark / text artifacts
+**Cause:** Training data contamination
+**Solution:**
+- Negative: `watermark, text, signature, logo, username, copyright`
+- Clean checkpoint without NSFW merge issues
 
 ---
 
-## Prostredia
+## Environments
 
-### Problém: Garáž nevyzerá realisticky
-**Príčina:** Vágny popis
-**Riešenie:**
-- Detailný prompt: `industrial garage interior, concrete floor with oil stains, exposed brick walls, tool wall with wrenches and sockets, red neon LED strip light, motorcycle hydraulic lift, dirty workbench`
-- Referenčná fotka cez ControlNet Depth
+### Issue: Garage doesn't look realistic
+**Cause:** Vague description
+**Solution:**
+- Detailed prompt: `industrial garage interior, concrete floor with oil stains, exposed brick walls, tool wall with wrenches and sockets, red neon LED strip light, motorcycle hydraulic lift, dirty workbench`
+- Reference photo via ControlNet Depth
 
-### Problém: Outdoor scéna nevyzerá ako Slovensko
-**Príčina:** Model nemá koncept slovenských ciest
-**Riešenie:**
+### Issue: Outdoor scene doesn't look like Slovakia
+**Cause:** Model has no concept of Slovak roads
+**Solution:**
 - `European mountain road, alpine scenery similar to Alps, coniferous forest, Tatra mountains, winding asphalt road, European road markings`
-- Referenčné fotky slovenských ciest
-- Post-processing: Color grade pre "European" look
+- Reference photos of Slovak roads
+- Post-processing: Color grade for "European" look
 
 ---
 
-## Workflow problémy
+## Workflow Issues
 
-### Problém: Generovanie trvá príliš dlho
-**Riešenie:**
-- Batch generovanie: viac obrázkov naraz
-- Nižší resolution pre drafty, upscale len finálne
-- Cloud GPU (RunPod) ak lokálny HW nestíha
-- Znížiť sampling steps pre testovacie generácie (15-20)
+### Issue: Generation takes too long
+**Solution:**
+- Batch generation: multiple images at once
+- Lower resolution for drafts, upscale only finals
+- Cloud GPU (RunPod) if local HW can't keep up
+- Lower sampling steps for test generations (15-20)
 
-### Problém: VRAM out of memory
-**Riešenie:**
-- Znížiť batch size na 1
-- Použiť --medvram alebo --lowvram flag
+### Issue: VRAM out of memory
+**Solution:**
+- Lower batch size to 1
+- Use --medvram or --lowvram flag
 - FP16 precision
-- Vypnúť nepotrebné extensions
-- Zavrieť ostatné GPU aplikácie
+- Disable unnecessary extensions
+- Close other GPU applications
 
-### Problém: ControlNet nemá efekt
-**Riešenie:**
-- Skontrolovať preprocessor output (preview)
-- Zvýšiť ControlNet weight (0.8-1.0)
-- Správny model pre správny preprocessor (OpenPose pre pózy, Canny pre edges)
-- Control mode: "Balanced" alebo "ControlNet is more important"
+### Issue: ControlNet has no effect
+**Solution:**
+- Check preprocessor output (preview)
+- Increase ControlNet weight (0.8-1.0)
+- Correct model for correct preprocessor (OpenPose for poses, Canny for edges)
+- Control mode: "Balanced" or "ControlNet is more important"
 
 ---
 
-## Checklist pred publikovaním
+## Pre-Publishing Checklist
 
-- [ ] Tvár je konzistentná s CHARACTER_BIBLE
-- [ ] Oči sú hazel-zelené
-- [ ] Vlasy sú tmavé, vlnité, po ramená
-- [ ] Pehy viditeľné (ak close-up)
-- [ ] Nose stud na ľavej strane
-- [ ] Ruky vyzerajú normálne (5 prstov na každej)
-- [ ] ŠPZ NIE JE čitateľná
-- [ ] Vozidlo zodpovedá popisu
-- [ ] Osvetlenie je moody/dramatic
-- [ ] Žiadne AI artefakty (watermark, text, deformácie)
-- [ ] Správny aspect ratio pre platformu
-- [ ] Žiadne NSFW na SFW platformách
+- [ ] Face is consistent with CHARACTER_BIBLE
+- [ ] Eyes are hazel-green
+- [ ] Hair is dark, wavy, shoulder-length
+- [ ] Freckles visible (if close-up)
+- [ ] Nose stud on left side
+- [ ] Hands look normal (5 fingers on each)
+- [ ] License plate is NOT readable
+- [ ] Vehicle matches description
+- [ ] Lighting is moody/dramatic
+- [ ] No AI artifacts (watermark, text, deformations)
+- [ ] Correct aspect ratio for platform
+- [ ] No NSFW on SFW platforms

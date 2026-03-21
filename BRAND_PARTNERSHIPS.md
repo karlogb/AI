@@ -1,21 +1,21 @@
 # Brand Partnerships - Reva Voss
 
-> Stratégia spolupráce s brandmi a potenciálni partneri.
+> Brand collaboration strategy and potential partners.
 
 ---
 
-## Partnership stratégia
+## Partnership Strategy
 
-### Princípy
-- Spolupráce musia byť **autentické** - len produkty ktoré Reva reálne používa/nosí
-- Žiadne "sell out" vibes - max 20% obsahu je sponzorovaný
-- Brand musí ladiť s Revy image: premium, automotive, edgy, minimalistický
-- Preferované: barter deal (produkt zadarmo) na začiatku, platené neskôr
+### Principles
+- Collaborations must be **authentic** - only products Reva actually uses/wears
+- No "sell out" vibes - max 20% of content is sponsored
+- Brand must match Reva's image: premium, automotive, edgy, minimalist
+- Preferred: barter deal (free product) at the start, paid later
 
 ### Timeline
-| Followers | Typ spolupráce | Sadzba |
-|-----------|----------------|--------|
-| 0 - 5K | Barter (produkt za post) | Zadarmo |
+| Followers | Partnership Type | Rate |
+|-----------|-----------------|------|
+| 0 - 5K | Barter (product for post) | Free |
 | 5K - 15K | Micro-influencer | €50 - €200/post |
 | 15K - 50K | Mid-tier | €200 - €1,000/post |
 | 50K - 100K | Established | €1,000 - €3,000/post |
@@ -23,98 +23,98 @@
 
 ---
 
-## Tier 1: Automotive / Moto (hlavná kategória)
+## Tier 1: Automotive / Moto (primary category)
 
-### Riding gear & príslušenstvo
+### Riding Gear & Accessories
 
-| Brand | Produkty | Fit s Revou | Prístup |
-|-------|----------|-------------|---------|
-| **AGV** | Helmy (už používa Pista GP RR) | Perfektný | Nadviazať na existujúci "use" |
-| **Dainese** | Kožené bundy, rukavice, boty | Vysoký | Premium Italian moto brand |
-| **Alpinestars** | Riding gear, casual moto oblečenie | Vysoký | Tech + style combo |
-| **Rev'It** | Bundy, kevlarové jeans | Vysoký | Modern, stylish gear |
-| **Akrapovič** | Výfuky (už má na H2) | Perfektný | Slovenský brand! |
-| **Shoei** | Helmy | Stredný | Alternatíva k AGV |
+| Brand | Products | Fit with Reva | Approach |
+|-------|----------|---------------|----------|
+| **AGV** | Helmets (already uses Pista GP RR) | Perfect | Build on existing "use" |
+| **Dainese** | Leather jackets, gloves, boots | High | Premium Italian moto brand |
+| **Alpinestars** | Riding gear, casual moto clothing | High | Tech + style combo |
+| **Rev'It** | Jackets, kevlar jeans | High | Modern, stylish gear |
+| **Akrapovic** | Exhausts (already on H2) | Perfect | Slovenian brand! |
+| **Shoei** | Helmets | Medium | Alternative to AGV |
 
-**Akrapovič je slovenský brand** - ideálna spolupráca pre "local pride" angle.
+**Akrapovic is a Slovenian brand** - ideal collaboration for "local pride" angle.
 
-### Moto doplnky & údržba
+### Moto Accessories & Maintenance
 
-| Brand | Produkty | Fit |
+| Brand | Products | Fit |
 |-------|----------|-----|
-| **Motul** | Oleje, mazivá | Garage content |
-| **K&N** | Vzduchové filtre | Tech/maintenance content |
-| **Rizoma** | Premium moto doplnky | Aesthetic upgrade content |
-| **Quad Lock** | Phone mount pre motorku | Practical riding content |
+| **Motul** | Oils, lubricants | Garage content |
+| **K&N** | Air filters | Tech/maintenance content |
+| **Rizoma** | Premium moto accessories | Aesthetic upgrade content |
+| **Quad Lock** | Phone mount for motorcycle | Practical riding content |
 | **Cardo** | Bluetooth intercom | "Ride with me" content |
 
 ### Automotive
 
-| Brand | Produkty | Fit |
+| Brand | Products | Fit |
 |-------|----------|-----|
-| **Remus** | Výfuky (už má na M5) | Zvukový content |
-| **KW / Bilstein** | Podvozok | BMW upgrade content |
-| **BBS / OZ** | Disky | Visual upgrade |
-| **Meguiar's / Koch Chemie** | Detailing produkty | Car care content |
-| **3M / Avery** | Fólie, PPF | Wrap/protection content |
+| **Remus** | Exhausts (already on M5) | Sound content |
+| **KW / Bilstein** | Suspension | BMW upgrade content |
+| **BBS / OZ** | Wheels | Visual upgrade |
+| **Meguiar's / Koch Chemie** | Detailing products | Car care content |
+| **3M / Avery** | Wraps, PPF | Wrap/protection content |
 
 ---
 
 ## Tier 2: Lifestyle & Fashion
 
-### Oblečenie
+### Clothing
 
-| Brand | Prečo | Typ obsahu |
-|-------|-------|------------|
+| Brand | Why | Content Type |
+|-------|-----|-------------|
 | **AllSaints** | Leather jackets, edgy casual | OOTD, street style |
-| **Dr. Martens** | Boty ladí s biker aesthetic | Outfit posts |
+| **Dr. Martens** | Boots match biker aesthetic | Outfit posts |
 | **Levi's** | Jeans, casual basics | Everyday content |
-| **The Kooples** | Edgy European fashion | Glamour posty |
+| **The Kooples** | Edgy European fashion | Glamour posts |
 | **NA-KD** | Trendy, affordable | Casual lifestyle |
 | **Calvin Klein** | Underwear/loungewear | Fanvue crossover |
 | **Savage x Fenty** | Lingerie | Fanvue exclusive |
 
-### Fitness & wellness
+### Fitness & Wellness
 
-| Brand | Prečo | Typ obsahu |
-|-------|-------|------------|
+| Brand | Why | Content Type |
+|-------|-----|-------------|
 | **Gymshark** | Athletic wear, strong IG presence | Workout/casual |
-| **Nike** | Športové oblečenie | Active lifestyle |
-| **Women's Best** | Supplements + fitnes | Health content |
-| **Hydro Flask** | Fľaše, travel mugs | Daily carry, rides |
+| **Nike** | Sportswear | Active lifestyle |
+| **Women's Best** | Supplements + fitness | Health content |
+| **Hydro Flask** | Bottles, travel mugs | Daily carry, rides |
 
 ---
 
 ## Tier 3: Tech & Gadgets
 
-| Brand | Produkt | Content angle |
+| Brand | Product | Content Angle |
 |-------|---------|---------------|
-| **GoPro** | Action kamery | POV ride footage |
-| **Insta360** | 360° kamery | Immersive ride content |
-| **Apple** | iPhone (už používa 15 Pro Max) | "Shot on iPhone" |
-| **Samsung** | Alternatíva k Apple | Tech comparison |
-| **Anker** | Nabíjačky, power banky | Travel/ride essentials |
-| **Peak Design** | Phone case, mount systém | Everyday carry |
+| **GoPro** | Action cameras | POV ride footage |
+| **Insta360** | 360° cameras | Immersive ride content |
+| **Apple** | iPhone (already uses 15 Pro Max) | "Shot on iPhone" |
+| **Samsung** | Apple alternative | Tech comparison |
+| **Anker** | Chargers, power banks | Travel/ride essentials |
+| **Peak Design** | Phone case, mount system | Everyday carry |
 
 ---
 
-## Tier 4: Lokálne slovenské brandy
+## Tier 4: Local Slovak Brands
 
-| Brand | Čo robia | Prečo |
-|-------|----------|-------|
-| **Akrapovič** | Výfukové systémy | Slovenský brand, perfektný fit |
-| **Kave** | Slovenská káva | Morning routine content |
-| **Nehera** | Slovenský fashion brand | Premium, minimalistický |
-| **Rona** | Sklo (lifestyle) | Home aesthetic |
-| **Slovenské pivo (Zlatý Bažant)** | Nápoje | After-ride chill (opatrne s alkoholom) |
+| Brand | What They Do | Why |
+|-------|-------------|-----|
+| **Akrapovic** | Exhaust systems | Slovenian brand, perfect fit |
+| **Kave** | Slovak coffee | Morning routine content |
+| **Nehera** | Slovak fashion brand | Premium, minimalist |
+| **Rona** | Glassware (lifestyle) | Home aesthetic |
+| **Slovak beer (Zlaty Bazant)** | Beverages | After-ride chill (careful with alcohol) |
 
-Lokálne spolupráce = silný "support local" angle + jednoduchší prístup.
+Local collaborations = strong "support local" angle + easier access.
 
 ---
 
-## Pitch šablóny
+## Pitch Templates
 
-### Cold email / DM template (English)
+### Cold Email / DM Template
 ```
 Subject: Collaboration proposal — Reva Voss x [Brand]
 
@@ -141,7 +141,7 @@ Reva
 @revarides
 ```
 
-### Barter deal template
+### Barter Deal Template
 ```
 Subject: Product x Content collaboration — Reva Voss
 
@@ -166,50 +166,50 @@ Reva
 
 ---
 
-## Partnership content formáty
+## Partnership Content Formats
 
-### Unboxing / first impression
-- Story séria: unboxing → prvé dojmy → nasadenie/použitie
+### Unboxing / First Impression
+- Story series: unboxing → first impressions → wearing/using
 - Reel: 15-30s edit
-- Autentický feel, nie "infomercial"
+- Authentic feel, not "infomercial"
 
-### "Daily driver" integration
-- Produkt sa objaví organicky v bežnom obsahu
-- Žiadne "OMG LOOK AT THIS PRODUCT"
-- Reva ho jednoducho používa
+### "Daily Driver" Integration
+- Product appears organically in regular content
+- No "OMG LOOK AT THIS PRODUCT"
+- Reva simply uses it naturally
 
-### Review / comparison
-- Detailný pohľad na produkt
-- Porovnanie s alternatívami
+### Review / Comparison
+- Detailed look at the product
+- Comparison with alternatives
 - Honest opinion vibe
 
-### Giveaway (od 10K+ followers)
+### Giveaway (from 10K+ followers)
 - "Win this [product]" + follow + tag
-- Boost engagement a reach
-- Brand platí produkt, Reva dodá exposure
+- Boosts engagement and reach
+- Brand pays for product, Reva provides exposure
 
 ---
 
-## Red lines (odmietnuté kategórie)
+## Red Lines (declined categories)
 
-- **Gambling / betting** - neetické, platformy to penalizujú
-- **Crypto / NFT shills** - strata kredibility
-- **Weight loss / diet pills** - toxické, nevhodné
-- **Knockoff / fake produkty** - proti brand image
-- **Politické / kontroverzné** - neutral zona
-- **Alkohol nadmerne** - jedno pivo po jazde OK, nie "party girl"
-- **Tobacco / vaping** - nevhodné pre image
-- **Lacné fast fashion** - Shein a podobné sú pod úroveň brandu
+- **Gambling / betting** - unethical, platforms penalize it
+- **Crypto / NFT shills** - loss of credibility
+- **Weight loss / diet pills** - toxic, inappropriate
+- **Knockoff / fake products** - against brand image
+- **Political / controversial** - neutral zone
+- **Excessive alcohol** - one beer after a ride OK, not "party girl"
+- **Tobacco / vaping** - doesn't fit the image
+- **Cheap fast fashion** - Shein and similar are below brand level
 
 ---
 
-## KPI pre partnerstvá
+## Partnership KPIs
 
-| Metrika | Čo sledovať |
-|---------|-------------|
-| Engagement rate | Likes + comments / followers (cieľ: 5%+) |
+| Metric | What to Track |
+|--------|--------------|
+| Engagement rate | Likes + comments / followers (target: 5%+) |
 | Click-through rate | Link clicks / impressions |
-| Conversion rate | Purchases / clicks (ak affiliate) |
-| Audience sentiment | Komentáre pod sponzorovaným postom |
-| Brand safety | Žiadne negatívne asociácie |
-| Content quality | Fit s overall feed aesthetic |
+| Conversion rate | Purchases / clicks (if affiliate) |
+| Audience sentiment | Comments on sponsored post |
+| Brand safety | No negative associations |
+| Content quality | Fit with overall feed aesthetic |

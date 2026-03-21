@@ -1,91 +1,93 @@
 # CLAUDE.md - Project Instructions
 
-## Projekt
-Toto je projekt **Reva Voss** - AI-generovaná virtuálna influencerka (motorkárka / automotive lifestyle). Cieľom je vytvoriť konzistentný, realistický AI-generovaný obsah pre sociálne siete a premium platformy.
+## Project
+This is the **Reva Voss** project - an AI-generated virtual influencer (motorcyclist / automotive lifestyle). The goal is to create consistent, realistic AI-generated content for social media and premium platforms.
 
-## Jazyk
-- Komunikácia s používateľom: **slovenčina**
-- Súbory a dokumentácia: slovenčina aj angličtina (prompty v angličtine, popisy v slovenčine)
-- Commit messages: angličtina
-- PR descriptions: slovenčina + angličtina mix
+## Language
+- Communication with user: **Slovak**
+- Files and documentation: **English**
+- Commit messages: English
+- PR descriptions: English
 
-## Pravidlá pre commity a PR
-- Každý commit musí mať jasný, popisný message
-- Každý Pull Request MUSÍ mať poriadny title + description s:
-  - Čo sa robilo a prečo
-  - Zoznam konkrétnych zmien
-  - Prípadné TODO do budúcnosti
-- README.md changelog sa aktualizuje pri každej väčšej zmene
-- Branch naming: `claude/<popis>-<session-id>`
+## Commit & PR Rules
+- Every commit must have a clear, descriptive message
+- Every Pull Request MUST have a proper title + description with:
+  - What was done and why
+  - List of specific changes
+  - Any future TODOs
+- README.md changelog is updated with every major change
+- Branch naming: `claude/<description>-<session-id>`
 
-## Štruktúra projektu
+## Project Structure
 ```
 AI/
-├── CLAUDE.md                 # Tieto inštrukcie (čítaj vždy prvé!)
-├── README.md                 # Popis projektu + changelog
-├── CHARACTER_BIBLE.md        # Vzhľad, osobnosť, backstory
-├── CONTENT_STRATEGY.md       # Stratégia obsahu pre platformy
-├── LORA_TRAINING_GUIDE.md    # Technický návod LoRA tréning
-├── PROMPTS_SFW.md            # SFW prompty pre generovanie
-├── PROMPTS_NSFW.md           # NSFW prompty (Fanvue exclusive)
-├── PROMPTS_VEHICLES.md       # Prompty pre vozidlá
-├── MONETIZATION.md           # Monetizačná stratégia a revenue plány
-├── POSTING_CALENDAR.md       # Týždenný/mesačný posting kalendár
-├── CAPTIONS_TEMPLATES.md     # Caption šablóny a hashtagy
-├── REVA_VOICE.md             # Komunikačný profil - ako Reva hovorí/píše
-├── TROUBLESHOOTING.md        # Riešenie problémov pri generovaní
-├── BRAND_PARTNERSHIPS.md     # Stratégia spolupráce s brandmi
-├── TOOLS_RESEARCH.md         # Prehľad AI nástrojov
+├── CLAUDE.md                 # These instructions (read first!)
+├── README.md                 # Project description + changelog
+├── CHARACTER_BIBLE.md        # Appearance, personality, backstory
+├── CONTENT_STRATEGY.md       # Content strategy for platforms
+├── LORA_TRAINING_GUIDE.md    # Technical LoRA training guide
+├── PROMPTS_SFW.md            # SFW prompts for generation
+├── PROMPTS_NSFW.md           # NSFW prompts (Fanvue exclusive)
+├── PROMPTS_VEHICLES.md       # Vehicle prompts
+├── MONETIZATION.md           # Monetization strategy and revenue plans
+├── POSTING_CALENDAR.md       # Weekly/monthly posting calendar
+├── CAPTIONS_TEMPLATES.md     # Caption templates and hashtags
+├── REVA_VOICE.md             # Communication profile - how Reva speaks/writes
+├── TROUBLESHOOTING.md        # Troubleshooting AI generation issues
+├── BRAND_PARTNERSHIPS.md     # Brand collaboration strategy
+├── TOOLS_RESEARCH.md         # AI tools overview
+├── TODO.md                   # Project roadmap and task tracking
+├── AI_TOOLS_COMPARISON.md    # AI tools comparison for content creation
 ├── .claude/
-│   ├── memory.md             # Trvalá pamäť - fakty o projekte
-│   ├── decisions.md          # Log rozhodnutí a prečo
-│   └── style-guide.md       # Štýlový sprievodca pre konzistentnosť
+│   ├── memory.md             # Persistent memory - project facts
+│   ├── decisions.md          # Decision log and reasoning
+│   └── style-guide.md        # Style guide for consistency
 └── reference-photos/
-    ├── motorcycle/           # Kawasaki Ninja H2 referenčné fotky
-    ├── car/                  # BMW M5 F90 referenčné fotky
-    ├── helmet/               # Helma referenčné (TODO)
-    ├── outfits/              # Outfity referenčné (TODO)
-    └── environments/         # Prostredia referenčné (TODO)
+    ├── motorcycle/           # Kawasaki Ninja H2 reference photos
+    ├── car/                  # BMW M5 F90 reference photos
+    ├── helmet/               # Helmet references (TODO)
+    ├── outfits/              # Outfit references (TODO)
+    └── environments/         # Environment references (TODO)
 ```
 
-## Kľúčové pravidlá
+## Key Rules
 
-### Postava - Reva Voss
-- 24 rokov, atletická postava, tmavé vlnité vlasy po ramená
-- Hazel-zelené oči, svetlá olivová pleť, pehy cez nos
-- Malý polmesiac tetovanie za ľavým uchom
-- Strieborný nose stud na ľavej nosnej dierke
-- NIKDY nemeniť fyzické atribúty!
+### Character - Reva Voss
+- 24 years old, athletic build, dark wavy hair to shoulders
+- Hazel-green eyes, light olive skin, freckles across nose
+- Small crescent moon tattoo behind left ear
+- Silver nose stud on left nostril
+- NEVER change physical attributes!
 
-### Vozidlá
-| Vozidlo | ŠPZ (SK) | Kľúčový look |
-|---------|----------|--------------|
-| Kawasaki Ninja H2 (2015) | BT-KWSH2 | Mirror black chrome, zelený rám, Akrapovič |
-| BMW M5 F90 (2019) | XX-BMWM5 | Matná čierna fólia, žlté angel eyes, Remus |
+### Vehicles
+| Vehicle | License Plate (SK) | Key Look |
+|---------|-------------------|----------|
+| Kawasaki Ninja H2 (2015) | BT-KWSH2 | Mirror black chrome, green frame, Akrapovic |
+| BMW M5 F90 (2019) | XX-BMWM5 | Matte black wrap, yellow angel eyes, Remus |
 
-### ŠPZ pravidlá (KRITICKÉ!)
-- ŠPZ sa NIKDY nezobrazujú čitateľne na fotkách
-- Povolené: rozmazané, v tieni, orezané, príliš ďaleko
-- EU modrý prúžok so SK môže byť viditeľný
-- V negatívnom prompte vždy: `(readable text on license plate:1.5)`
+### License Plate Rules (CRITICAL!)
+- License plates are NEVER shown readable in photos
+- Allowed: blurred, in shadow, cropped, too far away
+- EU blue strip with SK may be visible
+- Always in negative prompt: `(readable text on license plate:1.5)`
 
-### Helma
-- AGV Pista GP RR, matná čierna s červenými akcentmi
+### Helmet
+- AGV Pista GP RR, matte black with red accents
 
-### Telefón
-- iPhone 15 Pro Max, Natural Titanium, priehľadný case
+### Phone
+- iPhone 15 Pro Max, Natural Titanium, clear case
 
-### Prostredia
-- Garáž: industriálna, betón, tehla, neon červené svetlo
-- Spálňa: minimalistická, sivá/biela, LED pásy, monstera
-- Kúpeľňa: biela + drevené akcenty
-- Outdoor: slovenské hory, Bratislava staré mesto
+### Environments
+- Garage: industrial, concrete, brick, neon red light
+- Bedroom: minimalist, grey/white, LED strips, monstera
+- Bathroom: white + wooden accents
+- Outdoor: Slovak mountains, Bratislava old town
 
 ## Workflow
-1. Pred každou prácou prečítaj CLAUDE.md + .claude/memory.md
-2. Kontroluj decisions.md pre predchádzajúce rozhodnutia
-3. Dodržiavaj style-guide.md pre konzistentnosť
-4. Aktualizuj memory.md ak sa dozvieš niečo nové
-5. Zaznamenaj dôležité rozhodnutia do decisions.md
-6. Aktualizuj README.md changelog
-7. Commitni a pushni s poriadnym popisom
+1. Before any work, read CLAUDE.md + .claude/memory.md
+2. Check decisions.md for previous decisions
+3. Follow style-guide.md for consistency
+4. Update memory.md if you learn something new
+5. Record important decisions in decisions.md
+6. Update README.md changelog
+7. Commit and push with proper description

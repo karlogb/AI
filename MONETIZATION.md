@@ -1,170 +1,170 @@
-# Monetizačná stratégia - Reva Voss
+# Monetization Strategy - Reva Voss
 
-> Kompletný plán monetizácie AI influencerky naprieč platformami.
-
----
-
-## Revenue streamy - prehľad
-
-| Stream | Platforma | Potenciál/mesiac | Priorita | Timeline |
-|--------|-----------|-------------------|----------|----------|
-| Subscriptions | Fanvue | €500 - €5,000+ | 🔴 Hlavný | Mesiac 1+ |
-| PPV správy | Fanvue | €200 - €2,000+ | 🔴 Hlavný | Mesiac 1+ |
-| Tipy | Fanvue | €100 - €1,000+ | 🟡 Stredný | Mesiac 2+ |
-| Sponzorstvá | Instagram | €100 - €2,000+ | 🟡 Stredný | Mesiac 3+ |
-| Brand deals | Instagram/TikTok | €200 - €5,000+ | 🟡 Stredný | Mesiac 6+ |
-| Affiliate | Všetky | €50 - €500+ | 🟢 Doplnkový | Mesiac 2+ |
-| Custom content | Fanvue DM | €50 - €1,000+ | 🟡 Stredný | Mesiac 2+ |
-| Merch | Vlastný shop | €100 - €1,000+ | 🟢 Doplnkový | Mesiac 6+ |
-| TikTok Creator Fund | TikTok | €20 - €200 | 🟢 Doplnkový | Mesiac 3+ |
+> Complete monetization plan for the AI influencer across all platforms.
 
 ---
 
-## Fanvue - hlavný revenue
+## Revenue Streams Overview
 
-### Tier štruktúra
-
-#### Free Tier (návnada)
-- Účel: Priviesť ľudí z IG/TikTok/Reddit
-- Obsah: SFW teasery, behind-scenes (cenzurované), lifestyle
-- CTA: "Unlock full content" odkazy na paid tier
-- Frekvencia: 2-3 posty/týždeň
-
-#### Subscription Tier - €9.99/mesiac
-- Čo dostanú:
-  - Lingerie / implied nude fotky (4-6/týždeň)
-  - Behind-the-scenes z garáže a jazdy
-  - Personal stories a "day in my life"
-  - Chat prístup (automatizovaný cez AI chatbot)
-  - Exkluzívne selfies
-- Cieľ: 50 subscribérov = €500/mes, 500 sub = €5,000/mes
-
-#### VIP Tier - €24.99/mesiac
-- Všetko z basic +
-  - Explicitnejší obsah
-  - Priority DM odpovede
-  - Mesačný custom set (hlasovanie čo chcú vidieť)
-  - Early access k novému obsahu
-- Cieľ: 20% subscribérov upgradne
-
-### PPV (Pay-Per-View) správy
-| Typ obsahu | Cena | Frekvencia |
-|------------|------|------------|
-| Exkluzívny photo set (5-8 fotiek) | €10 - €15 | 2x/týždeň |
-| Premium set (10+ fotiek, téma) | €20 - €30 | 1x/týždeň |
-| "Behind closed doors" set | €30 - €50 | 2x/mesiac |
-| Custom content (na požiadanie) | €50 - €100+ | On demand |
-
-### Cenová stratégia
-- Prvý mesiac: **€4.99** (50% zľava) pre rýchly rast subscribérov
-- Po 3 mesiacoch: Zvýšiť na plnú cenu €9.99
-- Bundle deals: 3 mesiace za €24.99 (úspora €5)
-- Sezónne promo: Valentín, leto, Vianoce = špeciálne sety + zľavy
+| Stream | Platform | Potential/month | Priority | Timeline |
+|--------|----------|-----------------|----------|----------|
+| Subscriptions | Fanvue | €500 - €5,000+ | High | Month 1+ |
+| PPV messages | Fanvue | €200 - €2,000+ | High | Month 1+ |
+| Tips | Fanvue | €100 - €1,000+ | Medium | Month 2+ |
+| Sponsorships | Instagram | €100 - €2,000+ | Medium | Month 3+ |
+| Brand deals | Instagram/TikTok | €200 - €5,000+ | Medium | Month 6+ |
+| Affiliate | All | €50 - €500+ | Supplementary | Month 2+ |
+| Custom content | Fanvue DM | €50 - €1,000+ | Medium | Month 2+ |
+| Merch | Own shop | €100 - €1,000+ | Supplementary | Month 6+ |
+| TikTok Creator Fund | TikTok | €20 - €200 | Supplementary | Month 3+ |
 
 ---
 
-## Instagram monetizácia
+## Fanvue - Primary Revenue
 
-### Affiliate marketing (od mesiaca 2)
-- **Moto gear:** Helmy, bundy, rukavice (RevZilla, FC-Moto affiliate)
-- **Lifestyle:** Fitness oblečenie, doplnky
-- **Tech:** GoPro, telefónne príslušenstvo
-- Linky cez Zori.bio (nie Linktree - lepšie pre adult funnel)
+### Tier Structure
 
-### Sponzorované posty (od mesiaca 3, min 5K followers)
-- Micro-influencer sadzba: €50-200/post
-- Moto industry: Príslušenstvo, výbava, oleje
-- Automotive lifestyle: Car care produkty, tuning diely
-- Pravidlo: Max 20% obsahu = sponzorované (aby nebolo spammy)
+#### Free Tier (funnel entry)
+- Purpose: Drive traffic from IG/TikTok/Reddit
+- Content: SFW teasers, censored behind-scenes, lifestyle
+- CTA: "Unlock full content" links to paid tier
+- Frequency: 2-3 posts/week
 
-### Reels bonus program
-- Aktivovať hneď ako bude dostupný
-- Fokus na viralné formáty pre maximálny reach
+#### Subscription Tier - €9.99/month
+- What subscribers get:
+  - Lingerie / implied nude photos (4-6/week)
+  - Behind-the-scenes from garage and rides
+  - Personal stories and "day in my life"
+  - Chat access (automated via AI chatbot)
+  - Exclusive selfies
+- Target: 50 subscribers = €500/mo, 500 subs = €5,000/mo
+
+#### VIP Tier - €24.99/month
+- Everything from basic +
+  - More explicit content
+  - Priority DM responses
+  - Monthly custom set (subscriber voting on theme)
+  - Early access to new content
+- Target: 20% of subscribers upgrade
+
+### PPV (Pay-Per-View) Messages
+| Content Type | Price | Frequency |
+|-------------|-------|-----------|
+| Exclusive photo set (5-8 photos) | €10 - €15 | 2x/week |
+| Premium set (10+ photos, themed) | €20 - €30 | 1x/week |
+| "Behind closed doors" set | €30 - €50 | 2x/month |
+| Custom content (on request) | €50 - €100+ | On demand |
+
+### Pricing Strategy
+- First month: **€4.99** (50% discount) for rapid subscriber growth
+- After 3 months: Raise to full price €9.99
+- Bundle deals: 3 months for €24.99 (save €5)
+- Seasonal promos: Valentine's, summer, Christmas = special sets + discounts
 
 ---
 
-## TikTok monetizácia
+## Instagram Monetization
+
+### Affiliate Marketing (from month 2)
+- **Moto gear:** Helmets, jackets, gloves (RevZilla, FC-Moto affiliate)
+- **Lifestyle:** Fitness clothing, accessories
+- **Tech:** GoPro, phone accessories
+- Links via Zori.bio (not Linktree - better for adult funnel)
+
+### Sponsored Posts (from month 3, min 5K followers)
+- Micro-influencer rate: €50-200/post
+- Moto industry: Accessories, gear, oils
+- Automotive lifestyle: Car care products, tuning parts
+- Rule: Max 20% of content = sponsored (to avoid spammy feel)
+
+### Reels Bonus Program
+- Activate as soon as available
+- Focus on viral formats for maximum reach
+
+---
+
+## TikTok Monetization
 
 ### Creator Fund / Creativity Program
-- Požiadavky: 10K+ followers, 100K views za 30 dní
-- Revenue: €0.02-0.05 za 1,000 views
-- Malé ale stabilné, hlavne pre reach
+- Requirements: 10K+ followers, 100K views in 30 days
+- Revenue: €0.02-0.05 per 1,000 views
+- Small but stable, mainly for reach
 
-### TikTok Shop (budúcnosť)
-- Merch predaj priamo cez TikTok
-- Affiliate produkty
+### TikTok Shop (future)
+- Merch sales directly through TikTok
+- Affiliate products
 
-### Live gifts (budúcnosť)
+### Live Gifts (future)
 - Q&A sessions
 - "Ride with me" live streams
 - Garage sessions
 
 ---
 
-## Merch (od mesiaca 6+)
+## Merch (from month 6+)
 
-### Produktová línia
-| Produkt | Cena | Margin | Platforma |
-|---------|------|--------|-----------|
-| "Reva Rides" tričko | €25-30 | ~€12 | Print-on-demand |
-| Sticker pack (5ks) | €8-10 | ~€5 | Print-on-demand |
+### Product Line
+| Product | Price | Margin | Platform |
+|---------|-------|--------|----------|
+| "Reva Rides" t-shirt | €25-30 | ~€12 | Print-on-demand |
+| Sticker pack (5pcs) | €8-10 | ~€5 | Print-on-demand |
 | Phone case | €20-25 | ~€10 | Print-on-demand |
 | Poster/print | €15-30 | ~€8 | Print-on-demand |
-| Čiapka/šiltovka | €20-25 | ~€10 | Print-on-demand |
+| Cap/snapback | €20-25 | ~€10 | Print-on-demand |
 
-### Print-on-demand služby
-- **Printful** alebo **Printify** - žiadne skladové náklady
-- Integrácia s Shopify alebo vlastná Zori.bio stránka
-- Design: Minimalistické logo, moto motívy, Reva silueta
-
----
-
-## Revenue ciele
-
-### Fáza 1: Launch (Mesiac 1-3)
-- Fanvue: 30-50 subscribérov = **€150 - €500/mes**
-- Affiliate: **€20 - €50/mes**
-- **Celkom: €170 - €550/mes**
-
-### Fáza 2: Rast (Mesiac 4-6)
-- Fanvue: 100-300 subscribérov + PPV = **€1,000 - €4,000/mes**
-- Instagram sponzorstvá: **€200 - €500/mes**
-- Affiliate: **€50 - €200/mes**
-- **Celkom: €1,250 - €4,700/mes**
-
-### Fáza 3: Stabilita (Mesiac 7-12)
-- Fanvue: 500+ subscribérov + PPV + tips = **€5,000 - €10,000/mes**
-- Brand deals: **€500 - €2,000/mes**
-- Merch: **€200 - €500/mes**
-- Affiliate: **€100 - €300/mes**
-- **Celkom: €5,800 - €12,800/mes**
-
-### Fáza 4: Scale (Rok 2+)
-- Cieľ: **€15,000 - €30,000/mes**
-- Vlastný brand, väčšie spolupráce, možno druhá postava
+### Print-on-Demand Services
+- **Printful** or **Printify** - zero inventory costs
+- Integration with Shopify or own Zori.bio page
+- Design: Minimalist logo, moto motifs, Reva silhouette
 
 ---
 
-## Náklady
+## Revenue Targets
 
-| Položka | Mesačne | Poznámka |
-|---------|---------|----------|
-| AI nástroje (Tier 2) | ~€50-80 | SDXL, ElevenLabs, Kling |
-| Cloud GPU (RunPod) | ~€30-50 | Pre LoRA tréning a generovanie |
-| Fanvue platforma | 20% z revenue | Štandardný poplatok |
+### Phase 1: Launch (Month 1-3)
+- Fanvue: 30-50 subscribers = **€150 - €500/mo**
+- Affiliate: **€20 - €50/mo**
+- **Total: €170 - €550/mo**
+
+### Phase 2: Growth (Month 4-6)
+- Fanvue: 100-300 subscribers + PPV = **€1,000 - €4,000/mo**
+- Instagram sponsorships: **€200 - €500/mo**
+- Affiliate: **€50 - €200/mo**
+- **Total: €1,250 - €4,700/mo**
+
+### Phase 3: Stability (Month 7-12)
+- Fanvue: 500+ subscribers + PPV + tips = **€5,000 - €10,000/mo**
+- Brand deals: **€500 - €2,000/mo**
+- Merch: **€200 - €500/mo**
+- Affiliate: **€100 - €300/mo**
+- **Total: €5,800 - €12,800/mo**
+
+### Phase 4: Scale (Year 2+)
+- Target: **€15,000 - €30,000/mo**
+- Own brand, larger collaborations, possibly a second character
+
+---
+
+## Costs
+
+| Item | Monthly | Note |
+|------|---------|------|
+| AI tools (Tier 2) | ~€50-80 | SDXL, ElevenLabs, Kling |
+| Cloud GPU (RunPod) | ~€30-50 | For LoRA training and generation |
+| Fanvue platform | 20% of revenue | Standard fee |
 | Zori.bio | ~€5 | Link-in-bio |
-| Doména + hosting | ~€10 | Pre budúci web |
-| **Celkom fixné** | **~€95-145** | Bez Fanvue poplatku |
+| Domain + hosting | ~€10 | For future website |
+| **Total fixed** | **~€95-145** | Excluding Fanvue fee |
 
 ---
 
-## KPI metriky
+## KPI Metrics
 
-| Metrika | Mesačný tracking | Cieľ (6 mesiacov) |
-|---------|------------------|---------------------|
-| Fanvue subscribéri | Počet, churn rate | 300+ |
+| Metric | Monthly Tracking | Target (6 months) |
+|--------|-----------------|---------------------|
+| Fanvue subscribers | Count, churn rate | 300+ |
 | Fanvue revenue | MRR, ARPU | €3,000+ |
-| IG followers | Rast, engagement rate | 10K+ |
-| TikTok followers | Rast, avg views | 20K+ |
+| IG followers | Growth, engagement rate | 10K+ |
+| TikTok followers | Growth, avg views | 20K+ |
 | Conversion rate | IG → Fanvue | 2-5% |
-| Content output | Fotky/videá za mesiac | 100+ fotiek, 20+ videí |
+| Content output | Photos/videos per month | 100+ photos, 20+ videos |
