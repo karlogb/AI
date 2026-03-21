@@ -51,8 +51,9 @@
 ## Character Appearance (Updated 2026-03-21)
 - Hair: Silver/platinum with dark roots (mirrors Ninja H2 chrome finish)
 - Makeup: Smoky eye + sharp black winged eyeliner (signature, always present), nude matte lips
-- Tattoos: 6 locations (behind left ear, left sleeve, right fingers, sternum, lower belly/hip, right thigh - rose bouquet)
-- All tattoos are blackwork/fine line style - no colorful tattoos
+- Tattoos: 7 locations (behind left ear, left sleeve - Japanese dragon/sakura/engine, right fingers, upper chest - sakura branches, sternum mandala, lower belly/hip - snake+sakura, right thigh - Japanese dragon/piston)
+- All tattoos are blackwork/fine line/Japanese irezumi style - no colorful tattoos
+- Tattoo theme: Japanese (sakura, dragon) + automotive/moto (engine parts, pistons)
 
 ## Preferred Tools & Models
 - **Foxy AI** ($49/mo) - SFW photos via Digital Double, best for consistency

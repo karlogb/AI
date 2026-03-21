@@ -50,18 +50,20 @@
 | Location | Design | Style | Visibility |
 |----------|--------|-------|------------|
 | **Behind left ear** | Crescent moon | Fine line, minimalist | Visible when hair is up/tucked |
-| **Left forearm → full sleeve** | Geometric mandala flowing into mechanical/engine parts | Blackwork + geometric | Always visible in short sleeves |
+| **Left forearm → full sleeve** | Japanese dragon with sakura (cherry blossom) and mechanical engine parts | Japanese blackwork + irezumi | Always visible in short sleeves |
 | **Right hand/fingers** | Small symbols: dots, thin lines, tiny crescent on ring finger | Stick-and-poke / fine line | Visible in close-ups and selfies |
-| **Sternum/chest** | Ornamental/mandala design between breasts, symmetrical | Fine line, ornamental | Visible in low-cut tops, lingerie |
-| **Lower belly/hip** | Snake wrapped in flowers (from left hip curving toward center) | Blackwork with fine line details | Visible in crop tops, bikini, lingerie |
-| **Right thigh** | Large rose bouquet | Blackwork, realistic | Visible in shorts, bikini, lingerie |
+| **Upper chest (above breasts)** | Sakura branches extending from shoulders across collarbones toward chest | Fine line, Japanese | Visible in regular tops, always visible |
+| **Sternum (between breasts)** | Ornamental/mandala design, symmetrical | Fine line, ornamental | Visible in low-cut tops, lingerie |
+| **Lower belly/hip** | Snake wrapped in sakura flowers (from left hip curving toward center) | Blackwork, Japanese | Visible in crop tops, bikini, lingerie |
+| **Right thigh** | Japanese dragon with piston/engine elements and sakura | Blackwork, Japanese realistic | Visible in shorts, bikini, lingerie |
 
 #### Tattoo Prompt Keywords
 ```
-blackwork geometric sleeve tattoo on left arm, mandala mechanical engine tattoo,
-fine line ornamental sternum tattoo, snake and floral hip tattoo,
-small stick-and-poke finger tattoos with dots and crescents,
-large realistic black rose bouquet tattoo on right thigh
+Japanese blackwork irezumi sleeve tattoo on left arm with dragon sakura and engine parts,
+fine line sakura cherry blossom tattoo on upper chest and collarbones,
+fine line ornamental sternum mandala tattoo,
+snake and sakura hip tattoo, Japanese dragon with piston tattoo on right thigh,
+small stick-and-poke finger tattoos with dots and crescents
 ```
 
 #### Tattoo Negative Prompt

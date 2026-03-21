@@ -57,7 +57,7 @@ AI/
 - Hair: Silver/platinum with dark roots, shoulder-length, slightly wavy (mirrors Ninja H2 chrome)
 - Hazel-green eyes, light olive skin, freckles across nose
 - Makeup: Smoky eye + sharp winged eyeliner (signature), nude matte lips
-- Tattoos: crescent moon (behind left ear), geometric sleeve (left arm), finger tattoos (right hand), sternum mandala, snake+flowers (hip), rose bouquet (right thigh)
+- Tattoos: crescent moon (behind left ear), Japanese dragon+sakura+engine sleeve (left arm), finger tattoos (right hand), sakura branches (upper chest/collarbones), sternum mandala, snake+sakura (hip), Japanese dragon+piston (right thigh)
 - Silver nose stud on left nostril
 - NEVER change physical attributes!
 
